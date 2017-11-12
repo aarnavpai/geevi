@@ -1319,3 +1319,7 @@ div.alert a:hover {
 .home-section {
   padding: 100px 0px;
 }
+
+.navbar-brand {
+  text-transform: none
+}
