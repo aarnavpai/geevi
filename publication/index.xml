@@ -11,22 +11,22 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Compressing Models for Recognizing Places</title>
+      <link>http://geevi.github.io/publication/compression-place/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/compression-place/</guid>
+      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Super-polylogarithmic hypergraph coloring hardness via low-degree long codes.</title>
       <link>http://geevi.github.io/publication/hyper-coloring-journal/</link>
       <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>http://geevi.github.io/publication/hyper-coloring-journal/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Compressing Models for Recognizing Places</title>
-      <link>http://geevi.github.io/publication/compression-place/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://geevi.github.io/publication/compression-place/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
     </item>
     
     <item>
