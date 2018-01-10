@@ -5,6 +5,24 @@
     
     <url>
     
+      <loc>http://geevi.github.io/teaching/efficient-cnns/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://geevi.github.io/teaching/mot/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://geevi.github.io/publication/xnet/</loc>
       <lastmod>2017-11-15T00:00:00+00:00</lastmod>
     </url>
@@ -16,6 +34,15 @@
     
       <loc>http://geevi.github.io/project/xnet/</loc>
       <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://geevi.github.io/teaching/complexity-theory/</loc>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -293,6 +320,14 @@
     
     <url>
     
+      <loc>http://geevi.github.io/teaching/complexity-theory/notes/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://geevi.github.io/publication_types/0/</loc>
       <lastmod>2014-02-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -363,7 +398,7 @@
     <url>
     
       <loc>http://geevi.github.io/tags/complexity-theory/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2017-06-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -373,7 +408,7 @@
     <url>
     
       <loc>http://geevi.github.io/tags/deep-learning/</loc>
-      <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -404,6 +439,16 @@
     
       <loc>http://geevi.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://geevi.github.io/teaching/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
