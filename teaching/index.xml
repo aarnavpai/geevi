@@ -83,6 +83,21 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1711.08141&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1711.08141&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Block Sparse GPU Kernels
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.openai.com/block-sparse-gpu-kernels/&#34; target=&#34;_blank&#34;&gt;https://blog.openai.com/block-sparse-gpu-kernels/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Capsule Network
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1710.09829&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1710.09829&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;FractalNet
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1605.07648&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1605.07648&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;architecture-search&#34;&gt;Architecture Search&lt;/h3&gt;
