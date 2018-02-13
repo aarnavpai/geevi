@@ -73,6 +73,11 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1707.01083&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1707.01083&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Interleaved Convolution
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1707.02725.pdf&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1707.02725.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Deep Expander Nets
 
 &lt;ul&gt;
@@ -103,15 +108,26 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://proceedings.mlr.press/v70/cho17a/cho17a.pdf&#34; target=&#34;_blank&#34;&gt;http://proceedings.mlr.press/v70/cho17a/cho17a.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Adaptive Neural Networks (ICML &amp;lsquo;17)
+&lt;li&gt;SENet (ImageNet 2017 Competition Winner)
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://proceedings.mlr.press/v70/bolukbasi17a/bolukbasi17a.pdf&#34; target=&#34;_blank&#34;&gt;http://proceedings.mlr.press/v70/bolukbasi17a/bolukbasi17a.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1709.01507.pdf&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1709.01507.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Wraped Convolutions (ICMl &amp;lsquo;17)
+&lt;li&gt;MobileNet v2 (with detection and segmentation scores)
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://proceedings.mlr.press/v70/henriques17a/henriques17a.pdf&#34; target=&#34;_blank&#34;&gt;http://proceedings.mlr.press/v70/henriques17a/henriques17a.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1801.04381.pdf&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1801.04381.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;efficient-semantic-segmentation-architectures&#34;&gt;Efficient Semantic Segmentation Architectures&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;DeepLab V3, PSPNet (Atrous Convolutions, Pyramidal Spatial Pooling)
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1706.05587&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1706.05587&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hszhao.github.io/projects/pspnet/&#34; target=&#34;_blank&#34;&gt;https://hszhao.github.io/projects/pspnet/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -153,19 +169,26 @@
 &lt;li&gt;Follow some papers from : &lt;a href=&#34;https://stats385.github.io/readings&#34; target=&#34;_blank&#34;&gt;https://stats385.github.io/readings&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;schedule-1&#34;&gt;Schedule&lt;/h2&gt;
+&lt;h2 id=&#34;meetings&#34;&gt;Meetings&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;CNN Introduction and Survey | Depthwise Seperarable Convolutions (Inception, Xception, MobileNet) | Pruning and Quantization Introduction&lt;/li&gt;
+&lt;li&gt;ResNext | GPU Programming 1&lt;/li&gt;
+&lt;li&gt;FractualNets | Memory Efficient Convolutions (MEC)&lt;/li&gt;
+&lt;li&gt;CapsuleNet | tvmlang | Semantic segmentation architectures (PSP Module, Atrous convolutions from Deeplab v3)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;participants&#34;&gt;Participants&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;CNN Introduction and Survey | Depthwise Seperarable Convolutions (Inception, Xception, MobileNet) | GPU 1&lt;/li&gt;
-&lt;li&gt;Pruning and Quantization Introduction | Residual and Dense Connections (ResNet, ResNext and DenseNet) | GPU 2&lt;/li&gt;
-&lt;li&gt;Architecture Search Introduction&lt;/li&gt;
-&lt;li&gt;ShuffleNet&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;students&#34;&gt;Students&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ameya&lt;/li&gt;
+&lt;li&gt;Ameya Prabhu&lt;/li&gt;
+&lt;li&gt;Aniruddha Vivek Patil&lt;/li&gt;
+&lt;li&gt;Sriharsha Annamaneni&lt;/li&gt;
+&lt;li&gt;Aaron Varghese&lt;/li&gt;
+&lt;li&gt;Vallurupalli Nikitha&lt;/li&gt;
+&lt;li&gt;Sudhir Kumar Reddy&lt;/li&gt;
+&lt;li&gt;Soham Saha&lt;/li&gt;
+&lt;li&gt;Ashutosh Mishra&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
