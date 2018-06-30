@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Cityscale Road Audit System using Deep Learning</title>
+      <link>http://geevi.github.io/publication/road-audit/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/road-audit/</guid>
+      <description>&lt;p&gt;Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset.  We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets. We further propose a novel training procedure which starts out with a dense convolution but gradually evolves towards a grouped convolution. We show that our proposed training method and efficient architecture design can improve accuracies by over 8% with depthwise separable convolutions applied on the encoder of ERFNet and attaching a light weight decoder. This results in a model which has a 5X improvement in FLOPs while only suffering a 4% degradation in accuracy with respect to ERFNet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Efficient Semantic Segmentation using Gradual Grouping</title>
       <link>http://geevi.github.io/publication/grad-group/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
@@ -506,32 +516,6 @@ solutions will be discussed.&lt;/p&gt;
       
       <guid>http://geevi.github.io/publication/thesis/</guid>
       <description>&lt;p&gt;The graph coloring problem is a notoriously hard problem, for which we do not have efficient algorithms. A coloring of a graph is an assignment of colors to its vertices such that the end points of every edge have different colors. A k-coloring is a coloring that uses at most k distinct colors. The graph coloring problem is to find a coloring that uses the minimum number of colors. Given a 3-colorable graph, the best known efficient algorithms output an n0. 199···-coloring. It is known that efficient algorithms cannot find a 4-coloring, assuming &amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Model Compression</title>
-      <link>http://geevi.github.io/project/model-compression/</link>
-      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://geevi.github.io/project/model-compression/</guid>
-      <description>
-
-&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Soham Saha
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://geevi.github.io/pdfs/Soham-Model-Compression.pdf&#34;&gt;slides&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://geevi.github.io/pdfs/RDShowcase.pdf&#34;&gt;R &amp;amp; D Showcase &amp;lsquo;16 poster&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Ameya Prabhu
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://geevi.github.io/pdfs/Ameya-indep-study.pdf&#34;&gt;Final Report&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
