@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Visual Relocalization using Anchor Points</title>
+      <link>http://geevi.github.io/publication/visual-reloc-achor/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/visual-reloc-achor/</guid>
+      <description>&lt;p&gt;#Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset.  We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets. We further propose a novel training procedure which starts out with a dense convolution but gradually evolves towards a grouped convolution. We show that our proposed training method and efficient architecture design can improve accuracies by over 8% with depthwise separable convolutions applied on the encoder of ERFNet and attaching a light weight decoder. This results in a model which has a 5X improvement in FLOPs while only suffering a 4% degradation in accuracy with respect to ERFNet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cityscale Road Audit System using Deep Learning</title>
       <link>http://geevi.github.io/publication/road-audit/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
@@ -507,16 +517,6 @@ solutions will be discussed.&lt;/p&gt;
       
       <guid>http://geevi.github.io/talk/model-compression-mlschool17/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Hardness of Approximate Coloring</title>
-      <link>http://geevi.github.io/publication/thesis/</link>
-      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://geevi.github.io/publication/thesis/</guid>
-      <description>&lt;p&gt;The graph coloring problem is a notoriously hard problem, for which we do not have efficient algorithms. A coloring of a graph is an assignment of colors to its vertices such that the end points of every edge have different colors. A k-coloring is a coloring that uses at most k distinct colors. The graph coloring problem is to find a coloring that uses the minimum number of colors. Given a 3-colorable graph, the best known efficient algorithms output an n0. 199···-coloring. It is known that efficient algorithms cannot find a 4-coloring, assuming &amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
