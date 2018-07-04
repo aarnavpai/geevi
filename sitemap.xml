@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://geevi.github.io/publication/xnet/</loc>
+      <lastmod>2018-07-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://geevi.github.io/publication/visual-reloc-achor/</loc>
       <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     </url>
@@ -52,15 +61,6 @@
     
       <loc>http://geevi.github.io/teaching/mot/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://geevi.github.io/publication/xnet/</loc>
-      <lastmod>2017-11-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -375,7 +375,7 @@
     <url>
     
       <loc>http://geevi.github.io/publication_types/1/</loc>
-      <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-07-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -386,16 +386,6 @@
     
       <loc>http://geevi.github.io/publication_types/2/</loc>
       <lastmod>2017-02-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://geevi.github.io/publication_types/4/</loc>
-      <lastmod>2017-11-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
