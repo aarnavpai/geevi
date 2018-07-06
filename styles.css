@@ -1419,7 +1419,8 @@ body.dark {
 }
 
 h3.article-title {
-  font-size: 14pt
+  font-size: 14pt;
+  padding-top: 10px
 }
 
 .pub-publication a {
@@ -1432,6 +1433,18 @@ h3.article-title {
 
 .article-title {
   margin-top: 0px
+}
+
+.home-section {
+  padding: 30px 0px;
+}
+
+.pub-publication {
+  font-style: italic
+}
+.pub-list-item {
+  border-bottom: lightgray  1px solid;
+  margin: 0px
 }.home-section {
 	padding: 50px 0px;
 }
