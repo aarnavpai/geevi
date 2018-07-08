@@ -1445,6 +1445,14 @@ h3.article-title {
 .pub-list-item {
   border-bottom: lightgray  1px solid;
   margin: 0px
+}
+
+section.home-section {
+  padding: 30px 0px;
+}
+
+.pub-list-item p {
+  margin-bottom: 10px
 }.home-section {
 	padding: 50px 0px;
 }
