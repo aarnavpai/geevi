@@ -71,24 +71,6 @@
     </item>
     
     <item>
-      <title>Super-polylogarithmic hypergraph coloring hardness via low-degree long codes</title>
-      <link>http://geevi.github.io/publication/hyper-coloring-journal/</link>
-      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://geevi.github.io/publication/hyper-coloring-journal/</guid>
-      <description>&lt;p&gt;We prove improved inapproximability results for hypergraph coloring using the low-degree polynomial code (aka, the &amp;lsquo;short code&amp;rsquo; of Barak et. al. [FOCS 2012]) and the techniques proposed by Dinur and Guruswami [FOCS 2013] to incorporate this code for inapproximability results. In particular, we prove quasi-NP-hardness of the following problems on $n$-vertex hyper-graphs:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Coloring a 2-colorable 8-uniform hypergraph with $2^{2^{\Omega(loglog\sqrt{n})}}$ colors.&lt;/li&gt;
-&lt;li&gt;Coloring a 4-colorable 4-uniform hypergraph with $2^{2^{\Omega(loglog\sqrt{n})}}$ colors.&lt;/li&gt;
-&lt;li&gt;Coloring a 3-colorable 3-uniform hypergraph with $(log n)^{\Omega(1/logloglog n)}$ colors.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In each of these cases, the hardness results obtained are (at least) exponentially stronger than what was previously known for the respective cases. In fact, prior to this result, polylog n colors was the strongest quantitative bound on the number of colors ruled out by inapproximability results for $O(1)$-colorable hypergraphs. The fundamental bottleneck in obtaining coloring inapproximability results using the low- degree long code was a multipartite structural restriction in the PCP construction of Dinur-Guruswami. We are able to get around this restriction by simulating the multipartite structure implicitly by querying just one partition (albeit requiring 8 queries), which yields our result for 2-colorable 8-uniform hypergraphs. The result for 4-colorable 4-uniform hypergraphs is obtained via a &amp;lsquo;query doubling&amp;rsquo; method. For 3-colorable 3-uniform hypergraphs, we exploit the ternary domain to design a test with an additive (as opposed to multiplicative) noise function, and analyze its efficacy in killing high weight Fourier coefficients via the pseudorandom properties of an associated quadratic form.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Hardness of Approximate Coloring</title>
       <link>http://geevi.github.io/publication/thesis/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
@@ -101,7 +83,7 @@
     <item>
       <title>A Characterization of Hard-to-cover CSPs</title>
       <link>http://geevi.github.io/publication/characterization-covering/</link>
-      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>http://geevi.github.io/publication/characterization-covering/</guid>
       <description>&lt;p&gt;We continue the study of covering complexity of constraint satisfaction problems (CSPs) initiated by Guruswami, Hastad and Sudan [SIAM J. Computing, 31(6):1663&amp;ndash;1686, 2002] and Dinur and Kol [In Proc. 28th IEEE Conference on Computational Complexity, 2013]. The covering number of a CSP instance $\phi$, denoted by ν(Φ) is the smallest number of assignments to the variables of $\phi$, such that each constraint of Φ is satisfied by at least one of the assignments. We show the following results regarding how well efficient algorithms can approximate the covering number of a given CSP instance.&lt;/p&gt;
@@ -111,6 +93,24 @@
 
 &lt;li&gt;&lt;p&gt;For a large class of predicates that are contained in the 2k-LIN predicate, we show that it is quasi-NP-hard to distinguish between instances which have covering number at most two and covering number at least Ω(loglogn). This generalizes the 4-LIN result of Dinur and Kol that states it is quasi-NP-hard to distinguish between 4-LIN-CSP instances which have covering number at most two and covering number at least Ω(logloglogn).&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Super-polylogarithmic hypergraph coloring hardness via low-degree long codes</title>
+      <link>http://geevi.github.io/publication/hyper-coloring-journal/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/hyper-coloring-journal/</guid>
+      <description>&lt;p&gt;We prove improved inapproximability results for hypergraph coloring using the low-degree polynomial code (aka, the &amp;lsquo;short code&amp;rsquo; of Barak et. al. [FOCS 2012]) and the techniques proposed by Dinur and Guruswami [FOCS 2013] to incorporate this code for inapproximability results. In particular, we prove quasi-NP-hardness of the following problems on $n$-vertex hyper-graphs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Coloring a 2-colorable 8-uniform hypergraph with $2^{2^{\Omega(loglog\sqrt{n})}}$ colors.&lt;/li&gt;
+&lt;li&gt;Coloring a 4-colorable 4-uniform hypergraph with $2^{2^{\Omega(loglog\sqrt{n})}}$ colors.&lt;/li&gt;
+&lt;li&gt;Coloring a 3-colorable 3-uniform hypergraph with $(log n)^{\Omega(1/logloglog n)}$ colors.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In each of these cases, the hardness results obtained are (at least) exponentially stronger than what was previously known for the respective cases. In fact, prior to this result, polylog n colors was the strongest quantitative bound on the number of colors ruled out by inapproximability results for $O(1)$-colorable hypergraphs. The fundamental bottleneck in obtaining coloring inapproximability results using the low- degree long code was a multipartite structural restriction in the PCP construction of Dinur-Guruswami. We are able to get around this restriction by simulating the multipartite structure implicitly by querying just one partition (albeit requiring 8 queries), which yields our result for 2-colorable 8-uniform hypergraphs. The result for 4-colorable 4-uniform hypergraphs is obtained via a &amp;lsquo;query doubling&amp;rsquo; method. For 3-colorable 3-uniform hypergraphs, we exploit the ternary domain to design a test with an additive (as opposed to multiplicative) noise function, and analyze its efficacy in killing high weight Fourier coefficients via the pseudorandom properties of an associated quadratic form.&lt;/p&gt;
 </description>
     </item>
     

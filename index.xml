@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Girish Varma</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 10 Nov 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -452,24 +452,6 @@ solutions will be discussed.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Super-polylogarithmic hypergraph coloring hardness via low-degree long codes</title>
-      <link>http://geevi.github.io/publication/hyper-coloring-journal/</link>
-      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://geevi.github.io/publication/hyper-coloring-journal/</guid>
-      <description>&lt;p&gt;We prove improved inapproximability results for hypergraph coloring using the low-degree polynomial code (aka, the &amp;lsquo;short code&amp;rsquo; of Barak et. al. [FOCS 2012]) and the techniques proposed by Dinur and Guruswami [FOCS 2013] to incorporate this code for inapproximability results. In particular, we prove quasi-NP-hardness of the following problems on $n$-vertex hyper-graphs:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Coloring a 2-colorable 8-uniform hypergraph with $2^{2^{\Omega(loglog\sqrt{n})}}$ colors.&lt;/li&gt;
-&lt;li&gt;Coloring a 4-colorable 4-uniform hypergraph with $2^{2^{\Omega(loglog\sqrt{n})}}$ colors.&lt;/li&gt;
-&lt;li&gt;Coloring a 3-colorable 3-uniform hypergraph with $(log n)^{\Omega(1/logloglog n)}$ colors.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In each of these cases, the hardness results obtained are (at least) exponentially stronger than what was previously known for the respective cases. In fact, prior to this result, polylog n colors was the strongest quantitative bound on the number of colors ruled out by inapproximability results for $O(1)$-colorable hypergraphs. The fundamental bottleneck in obtaining coloring inapproximability results using the low- degree long code was a multipartite structural restriction in the PCP construction of Dinur-Guruswami. We are able to get around this restriction by simulating the multipartite structure implicitly by querying just one partition (albeit requiring 8 queries), which yields our result for 2-colorable 8-uniform hypergraphs. The result for 4-colorable 4-uniform hypergraphs is obtained via a &amp;lsquo;query doubling&amp;rsquo; method. For 3-colorable 3-uniform hypergraphs, we exploit the ternary domain to design a test with an additive (as opposed to multiplicative) noise function, and analyze its efficacy in killing high weight Fourier coefficients via the pseudorandom properties of an associated quadratic form.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Deep Reinforcement Learning</title>
       <link>http://geevi.github.io/project/deep-reinforcement-learning/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -517,6 +499,16 @@ solutions will be discussed.&lt;/p&gt;
       
       <guid>http://geevi.github.io/talk/model-compression-mlschool17/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Hardness of Approximate Coloring</title>
+      <link>http://geevi.github.io/publication/thesis/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://geevi.github.io/publication/thesis/</guid>
+      <description>&lt;p&gt;The graph coloring problem is a notoriously hard problem, for which we do not have efficient algorithms. A coloring of a graph is an assignment of colors to its vertices such that the end points of every edge have different colors. A k-coloring is a coloring that uses at most k distinct colors. The graph coloring problem is to find a coloring that uses the minimum number of colors. Given a 3-colorable graph, the best known efficient algorithms output an n0. 199···-coloring. It is known that efficient algorithms cannot find a 4-coloring, assuming &amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
