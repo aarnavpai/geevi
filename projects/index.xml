@@ -2,174 +2,174 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on gv</title>
-    <link>http://example.org/projects/</link>
+    <link>https://geevi.github.io/projects/</link>
     <description>Recent content in Projects on gv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Sep 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geevi.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Algorithms</title>
-      <link>http://example.org/projects/algorithms/</link>
+      <link>https://geevi.github.io/projects/algorithms/</link>
       <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/algorithms/</guid>
+      <guid>https://geevi.github.io/projects/algorithms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autonomous Navigation</title>
-      <link>http://example.org/projects/autonomous-navigation/</link>
+      <link>https://geevi.github.io/projects/autonomous-navigation/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/autonomous-navigation/</guid>
+      <guid>https://geevi.github.io/projects/autonomous-navigation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Complexity Theory</title>
-      <link>http://example.org/projects/complexity-theory/</link>
+      <link>https://geevi.github.io/projects/complexity-theory/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/complexity-theory/</guid>
+      <guid>https://geevi.github.io/projects/complexity-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer Vision</title>
-      <link>http://example.org/projects/computer-vision/</link>
+      <link>https://geevi.github.io/projects/computer-vision/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/computer-vision/</guid>
+      <guid>https://geevi.github.io/projects/computer-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>http://example.org/projects/deep-learning/</link>
+      <link>https://geevi.github.io/projects/deep-learning/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/deep-learning/</guid>
+      <guid>https://geevi.github.io/projects/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Game Theory</title>
-      <link>http://example.org/projects/game-theory/</link>
+      <link>https://geevi.github.io/projects/game-theory/</link>
       <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/game-theory/</guid>
+      <guid>https://geevi.github.io/projects/game-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph Theory</title>
-      <link>http://example.org/projects/graph-theory/</link>
+      <link>https://geevi.github.io/projects/graph-theory/</link>
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/graph-theory/</guid>
+      <guid>https://geevi.github.io/projects/graph-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hardness of Approximation</title>
-      <link>http://example.org/projects/hardness-of-approximation/</link>
+      <link>https://geevi.github.io/projects/hardness-of-approximation/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/hardness-of-approximation/</guid>
+      <guid>https://geevi.github.io/projects/hardness-of-approximation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Retrieval</title>
-      <link>http://example.org/projects/image-retrieval/</link>
+      <link>https://geevi.github.io/projects/image-retrieval/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/image-retrieval/</guid>
+      <guid>https://geevi.github.io/projects/image-retrieval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latent Heirarchy</title>
-      <link>http://example.org/projects/latent-heirarchy/</link>
+      <link>https://geevi.github.io/projects/latent-heirarchy/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/latent-heirarchy/</guid>
+      <guid>https://geevi.github.io/projects/latent-heirarchy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Localization</title>
-      <link>http://example.org/projects/localization/</link>
+      <link>https://geevi.github.io/projects/localization/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/localization/</guid>
+      <guid>https://geevi.github.io/projects/localization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>http://example.org/projects/machine-learning/</link>
+      <link>https://geevi.github.io/projects/machine-learning/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/machine-learning/</guid>
+      <guid>https://geevi.github.io/projects/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model Compression</title>
-      <link>http://example.org/projects/model-compression/</link>
+      <link>https://geevi.github.io/projects/model-compression/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/model-compression/</guid>
+      <guid>https://geevi.github.io/projects/model-compression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Physarum Computer</title>
-      <link>http://example.org/projects/physarum-computer/</link>
+      <link>https://geevi.github.io/projects/physarum-computer/</link>
       <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/physarum-computer/</guid>
+      <guid>https://geevi.github.io/projects/physarum-computer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistically Checkable Proofs</title>
-      <link>http://example.org/projects/probabilistically-checkable-proofs/</link>
+      <link>https://geevi.github.io/projects/probabilistically-checkable-proofs/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/probabilistically-checkable-proofs/</guid>
+      <guid>https://geevi.github.io/projects/probabilistically-checkable-proofs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic Segmentation</title>
-      <link>http://example.org/projects/semantic-segmentation/</link>
+      <link>https://geevi.github.io/projects/semantic-segmentation/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/semantic-segmentation/</guid>
+      <guid>https://geevi.github.io/projects/semantic-segmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Streaming Algorithms</title>
-      <link>http://example.org/projects/streaming-algorithms/</link>
+      <link>https://geevi.github.io/projects/streaming-algorithms/</link>
       <pubDate>Tue, 05 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/streaming-algorithms/</guid>
+      <guid>https://geevi.github.io/projects/streaming-algorithms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transportation</title>
-      <link>http://example.org/projects/transportation/</link>
+      <link>https://geevi.github.io/projects/transportation/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/projects/transportation/</guid>
+      <guid>https://geevi.github.io/projects/transportation/</guid>
       <description></description>
     </item>
     
