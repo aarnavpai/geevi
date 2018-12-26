@@ -1,516 +1,275 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Girish varma on Girish varma</title>
-    <link>http://geevi.github.io/</link>
-    <description>Recent content in Girish varma on Girish varma</description>
+    <title>gv</title>
+    <link>http://example.org/</link>
+    <description>Recent content on gv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Girish Varma</copyright>
-    <lastBuildDate>Fri, 10 Nov 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/about/</guid>
+      <description>Hi! I am a scientist of Machine Learning at the Machine Learning Lab at IIIT Hyderabad. My primary research topic is Deep Learning, specifically Model Compression techniques and Semantic Segmentation for Autonomous Navigation.
+Previously I did my Phd thesis on Computational Complexity theory and continues to have interest in Complexity theory, Combinatorics and Graph theory.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/teaching/</guid>
+      <description> Teaching  AI/ML for Natural Sciences, Jan 2019
+ Foundations of Artificial Intelligence and Machine Learning
+ Efficient CNNs (Reading Group), Jan 2018
+ Multi Object Tracking using Deep Learning (Reading Group), Jan 2018
+ Computational Complexity Theory, Sept - Nov 2017
+    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/events/</guid>
+      <description>Events &amp;amp; Talks  Semantic Segmentation: Recent Advances, Indian Datasets &amp; Universal Segmentation Problems Challenges and Advances in Vision-Based Self-Driving
+Tutorial cohosted with Prof. Manmohan Chandrakar (UCSD) at ICVGIP&#39;18, Hyderabad. December, 2018
+ IDD Dataset and Challenge ICTAI Workshop on Unstructured Driving Scenarios in India
+Intel Bangalore, November, 2018
+ Scene Understanding Challenge for Auto. Nav. in Unstructured Environments
+First International Workshop On Auto. Nav. in Unconstrained Environments</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/projects/</guid>
+      <description> Research Areas </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/home/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/contact/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Universal Semi-supervised Semantic Segmentation</title>
-      <link>http://geevi.github.io/publication/univ-seg/</link>
+      <link>http://example.org/publication/univ-seg/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://geevi.github.io/publication/univ-seg/</guid>
-      <description>&lt;p&gt;In recent years, the need for semantic segmentation has arisen across several different applications and environments. However, the expense and redundancy of annotation often limits the quantity of labels available for training in any domain, while deployment is easier if a single model works well across domains. In this paper, we pose the novel problem of universal semi-supervised semantic segmentation and propose a solution framework, to meet the dual needs of lower annotation and deployment costs. In contrast to counterpoints such as fine tuning, joint training or unsupervised domain adaptation, universal semi-supervised segmentation ensures that across all domains: (i) a single model is deployed, (ii) unlabeled data is used, (iii) performance is improved, (iv) only a few labels are needed and (v) label spaces may differ. To address this, we minimize supervised as well as within and cross-domain unsupervised losses, introducing a novel feature alignment objective based on pixel-aware entropy regularization for the latter. We demonstrate quantitative advantages over other approaches on several combinations of segmentation datasets across different geographies (Germany, England, India) and environments (outdoors, indoors), as well as qualitative insights on the aligned representations.&lt;/p&gt;
-</description>
+      <guid>http://example.org/publication/univ-seg/</guid>
+      <description>In recent years, the need for semantic segmentation has arisen across several different applications and environments. However, the expense and redundancy of annotation often limits the quantity of labels available for training in any domain, while deployment is easier if a single model works well across domains. In this paper, we pose the novel problem of universal semi-supervised semantic segmentation and propose a solution framework, to meet the dual needs of lower annotation and deployment costs.</description>
     </item>
     
     <item>
       <title>IDD: A Dataset for exploring problems in Autonomous Navigation in Unconstrained Environments</title>
-      <link>http://geevi.github.io/publication/idd/</link>
+      <link>http://example.org/publication/idd/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://geevi.github.io/publication/idd/</guid>
-      <description>&lt;p&gt;While several datasets for autonomous navigation have become available in recent years, they tend to focus on structured driving environments. This usually corresponds to well-delineated infrastructure such as lanes, a small number of well-defined categories for traffic participants, low variation in object or background appearance and strict adherence to traffic rules. We propose IDD, a novel dataset for road scene understanding in unstructured environments where the above assumptions are largely not satisfied. It consists of 10,004 images, finely annotated with 34 classes collected from 182 drive sequences on Indian roads. The label set is expanded in comparison to popular benchmarks such as Cityscapes, to account for new classes. It also reflects label distributions of road scenes significantly different from existing datasets, with most classes displaying greater within-class diversity.Consistent with real driving behaviors, it also identifies new classes such as drivable areas besides the road. We propose a new four-level label hierarchy, which allows varying degrees of complexity and opens up possibilities for new training methods. Our empirical study provides an in-depth analysis of the label characteristics. State-of-the-art methods for semantic segmentation achieve much lower accuracies on our dataset, demonstrating its distinction compared to Cityscapes. Finally, we propose that our dataset is an ideal opportunity for new problems such as domain adaptation, few-shot learning and behavior prediction in road scenes.&lt;/p&gt;
-</description>
+      <guid>http://example.org/publication/idd/</guid>
+      <description>While several datasets for autonomous navigation have become available in recent years, they tend to focus on structured driving environments. This usually corresponds to well-delineated infrastructure such as lanes, a small number of well-defined categories for traffic participants, low variation in object or background appearance and strict adherence to traffic rules. We propose IDD, a novel dataset for road scene understanding in unstructured environments where the above assumptions are largely not satisfied.</description>
     </item>
     
     <item>
       <title>Deep Expander Networks: Efficient Deep Networks from Graph Theory</title>
-      <link>http://geevi.github.io/publication/xnet/</link>
+      <link>http://example.org/publication/xnet/</link>
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://geevi.github.io/publication/xnet/</guid>
-      <description>&lt;p&gt;Efficient CNN designs like ResNets and DenseNet were proposed to improve accuracy vs efficiency trade-offs. They essentially increased the connectivity, allowing efficient information flow across layers. Inspired by these techniques, we propose to model connections between filters of a CNN using graphs which are simultaneously sparse and well connected. Sparsity results in efficiency while well connectedness can preserve the expressive power of the CNNs. We use a well-studied class of graphs from theoretical computer science that satisfies these properties known as Expander graphs. Expander graphs are used to model connections between filters in CNNs to design networks called X-Nets. We present two guarantees on the connectivity of X-Nets: Each node influences every node in a layer in logarithmic steps, and the number of paths between two sets of nodes is proportional to the product of their sizes. We also propose efficient training and inference algorithms, making it possible to train deeper and wider X-Nets effectively.
-Expander based models give a 4% improvement in accuracy on MobileNet over grouped convolutions, a popular technique, which has the same sparsity but worse connectivity. X-Nets give better performance trade-offs than the original ResNet and DenseNet-BC architectures. We achieve model sizes comparable to state-of-the-art pruning techniques using our simple architecture design, without any pruning. We hope that this work motivates other approaches to utilize results from graph theory to develop efficient network architectures.&lt;/p&gt;
-</description>
+      <guid>http://example.org/publication/xnet/</guid>
+      <description>Efficient CNN designs like ResNets and DenseNet were proposed to improve accuracy vs efficiency trade-offs. They essentially increased the connectivity, allowing efficient information flow across layers. Inspired by these techniques, we propose to model connections between filters of a CNN using graphs which are simultaneously sparse and well connected. Sparsity results in efficiency while well connectedness can preserve the expressive power of the CNNs. We use a well-studied class of graphs from theoretical computer science that satisfies these properties known as Expander graphs.</description>
     </item>
     
     <item>
       <title>Improved Visual Relocalization by Discovering Anchor Points</title>
-      <link>http://geevi.github.io/publication/visual-reloc-achor/</link>
+      <link>http://example.org/publication/visual-reloc-achor/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://geevi.github.io/publication/visual-reloc-achor/</guid>
-      <description>&lt;p&gt;We address the visual relocalization problem of predicting the location and camera
-orientation or pose (6DOF) of the given input scene. We propose a method based on how
-humans determine their location using the visible landmarks. We define anchor points
-uniformly across the route map and propose a deep learning architecture which predicts
-the most relevant anchor point present in the scene as well as the relative offsets with
-respect to it. The relevant anchor point need not be the nearest anchor point to the ground
-truth location, as it might not be visible due to the pose. Hence we propose a multi task
-loss function, which discovers the relevant anchor point, without needing the ground truth
-for it. We validate the effectiveness of our approach by experimenting on Cambridge
-Landmarks (large scale outdoor scenes) as well as 7 Scenes (indoor scenes) using various
-CNN feature extractors. Our method improves the median error in indoor as well as
-outdoor localization datasets compared to the previous best deep learning model known
-as PoseNet (with geometric re-projection loss) using the same feature extractor. We
-improve the median error in localization in the specific case of Street scene, by over 8m.&lt;/p&gt;
-</description>
+      <guid>http://example.org/publication/visual-reloc-achor/</guid>
+      <description>We address the visual relocalization problem of predicting the location and camera orientation or pose (6DOF) of the given input scene. We propose a method based on how humans determine their location using the visible landmarks. We define anchor points uniformly across the route map and propose a deep learning architecture which predicts the most relevant anchor point present in the scene as well as the relative offsets with respect to it.</description>
     </item>
     
     <item>
       <title>Cityscale Road Audit System using Deep Learning</title>
-      <link>http://geevi.github.io/publication/road-audit/</link>
+      <link>http://example.org/publication/road-audit/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://geevi.github.io/publication/road-audit/</guid>
-      <description>&lt;p&gt;Road networks in cities are massive and is a critical component of mobility. Fast response to defects, that can occur not only due to regular wear and tear but also because of extreme events like storms, is essential. Hence there is a need for an automated system that is quick, scalable and cost-effective for gathering information about defects. We propose a system for city-scale road audit, using some of the most recent developments in deep learning and semantic segmentation. For building and benchmarking the system, we curated a dataset which has annotations required for road defects. However, many of the labels required for road audit have high ambiguity which we overcome by proposing a label hierarchy. We also propose a multi-step deep learning model that segments the road, subdivide the road further into defects, tags the frame for each defect and finally localizes the defects on a map gathered using GPS. We analyze and evaluate the models on image tagging as well as segmentation at different levels of the label hierarchy.&lt;/p&gt;
-</description>
+      <guid>http://example.org/publication/road-audit/</guid>
+      <description>Road networks in cities are massive and is a critical component of mobility. Fast response to defects, that can occur not only due to regular wear and tear but also because of extreme events like storms, is essential. Hence there is a need for an automated system that is quick, scalable and cost-effective for gathering information about defects. We propose a system for city-scale road audit, using some of the most recent developments in deep learning and semantic segmentation.</description>
     </item>
     
     <item>
       <title>Efficient Semantic Segmentation using Gradual Grouping</title>
-      <link>http://geevi.github.io/publication/grad-group/</link>
+      <link>http://example.org/publication/grad-group/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://geevi.github.io/publication/grad-group/</guid>
-      <description>&lt;p&gt;Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset.  We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets. We further propose a novel training procedure which starts out with a dense convolution but gradually evolves towards a grouped convolution. We show that our proposed training method and efficient architecture design can improve accuracies by over 8% with depthwise separable convolutions applied on the encoder of ERFNet and attaching a light weight decoder. This results in a model which has a 5X improvement in FLOPs while only suffering a 4% degradation in accuracy with respect to ERFNet.&lt;/p&gt;
-</description>
+      <guid>http://example.org/publication/grad-group/</guid>
+      <description>Deep CNNs for semantic segmentation have high memory and run time requirements. Various approaches have been proposed to make CNNs efficient like grouped, shuffled, depth-wise separable convolutions. We study the effectiveness of these techniques on a real-time semantic segmentation architecture like ERFNet for improving runtime by over 5X. We apply these techniques to CNN layers partially or fully and evaluate the testing accuracies on Cityscapes dataset. We obtain accuracy vs parameters/FLOPs trade offs, giving accuracy scores for models that can run under specified runtime budgets.</description>
     </item>
     
     <item>
       <title>Class2Str: End to End Latent Hierarchy Learning</title>
-      <link>http://geevi.github.io/publication/class2str/</link>
+      <link>http://example.org/publication/class2str/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://geevi.github.io/publication/class2str/</guid>
-      <description>&lt;p&gt;Deep neural networks for image classification typically consists of a convolutional feature extractor followed by a fully connected classifier network. The predicted and the ground truth labels are represented as one hot vectors. Such a representation assumes that all classes are equally dissimilar. However, classes have visual similarities and often form a hierarchy. Learning this latent hierarchy explicitly in the architecture could provide invaluable insights. We propose an alternate architecture to the classifier network called the Latent Hierarchy (LH) Classifier and an end to end learned Class2Str mapping which discovers a latent hierarchy of the classes. We show that for some of the best performing architectures on CIFAR and Imagenet datasets, the proposed replacement and training by LH classifier recovers the accuracy, with a fraction of the number of parameters in the classifier part. Compared to the previous work of HDCNN, which also learns a 2 level hierarchy, we are able to learn a hierarchy at an arbitrary number of levels as well as obtain an accuracy improvement on the Imagenet classification task over them. We also verify that many visually similar classes are grouped together, under the learnt hierarchy.&lt;/p&gt;
-</description>
+      <guid>http://example.org/publication/class2str/</guid>
+      <description>Deep neural networks for image classification typically consists of a convolutional feature extractor followed by a fully connected classifier network. The predicted and the ground truth labels are represented as one hot vectors. Such a representation assumes that all classes are equally dissimilar. However, classes have visual similarities and often form a hierarchy. Learning this latent hierarchy explicitly in the architecture could provide invaluable insights. We propose an alternate architecture to the classifier network called the Latent Hierarchy (LH) Classifier and an end to end learned Class2Str mapping which discovers a latent hierarchy of the classes.</description>
     </item>
     
     <item>
       <title>Efficient CNNs</title>
-      <link>http://geevi.github.io/teaching/efficient-cnns/</link>
+      <link>http://example.org/teaching/efficient-cnns/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://geevi.github.io/teaching/efficient-cnns/</guid>
-      <description>
-
-&lt;p&gt;Deep Neural Networks, while being unreasonably effective for several vision tasks, have their usage limited by the computational and memory requirements, both during training and inference stages. Analyzing and improving the connectivity patterns between layers of a network has resulted in several compact architectures like GoogleNet, ResNet and DenseNet-BC. We survey the most recent developments giving CNN architectures with better error vs resourse (parameters/FLOPs/energy/memory/fps) tradeoffs.&lt;/p&gt;
-
-&lt;p&gt;We also plan to learn how to do fast implementations of CNNs in existing processing architectures. Most important processor currently is the GPU. Hence we plan to learn some amount of GPU programming as well.&lt;/p&gt;
-
-&lt;h2 id=&#34;schedule&#34;&gt;Schedule&lt;/h2&gt;
-
-&lt;p&gt;Every week we meet for 3 hrs. Broadly it will be divided in to:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1 hr will be spent on basics and pre 2017 techniques&lt;/li&gt;
-&lt;li&gt;1 hr on more recent techniques or theory&lt;/li&gt;
-&lt;li&gt;1 hr on GPU programming (also some thing about FPGAs or general hardware?)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;
-
-&lt;p&gt;The topics covered can be broadly classified into following. It is reccomended that each participant take one topic and read all papers related to it. If there are too many in a particular topic, we can find some way to share the load.&lt;/p&gt;
-
-&lt;h3 id=&#34;explicit-compression-techniques&#34;&gt;Explicit Compression Techniques&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Trained Pruning and Quantization : &lt;a href=&#34;https://arxiv.org/abs/1510.00149&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1510.00149&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Low Rank and Sparse Approximations : &lt;a href=&#34;http://ieeexplore.ieee.org/document/8099498/&#34; target=&#34;_blank&#34;&gt;http://ieeexplore.ieee.org/document/8099498/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Binarized Networks : &lt;a href=&#34;http://allenai.org/plato/xnornet/&#34; target=&#34;_blank&#34;&gt;http://allenai.org/plato/xnornet/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;efficient-cnn-designs&#34;&gt;Efficient CNN Designs&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Grouped Convolutions :
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ikhlestov.github.io/pages/machine-learning/convolutions-types/&#34; target=&#34;_blank&#34;&gt;https://ikhlestov.github.io/pages/machine-learning/convolutions-types/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.yani.io/filter-group-tutorial/&#34; target=&#34;_blank&#34;&gt;https://blog.yani.io/filter-group-tutorial/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Depthwise Seperable Convolutions (MobileNet)
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1704.04861&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1704.04861&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ResNext
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1611.05431&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1611.05431&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;DenseNet
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1608.06993&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1608.06993&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ShuffleNet
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1707.01083&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1707.01083&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Interleaved Convolution
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1707.02725.pdf&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1707.02725.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Deep Expander Nets
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1711.08757&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1711.08757&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ZeroFLOP operation
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1711.08141&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1711.08141&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Block Sparse GPU Kernels
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.openai.com/block-sparse-gpu-kernels/&#34; target=&#34;_blank&#34;&gt;https://blog.openai.com/block-sparse-gpu-kernels/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Capsule Network
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1710.09829&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1710.09829&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;FractalNet
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1605.07648&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1605.07648&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;MEC (ICML &amp;lsquo;17)
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://proceedings.mlr.press/v70/cho17a/cho17a.pdf&#34; target=&#34;_blank&#34;&gt;http://proceedings.mlr.press/v70/cho17a/cho17a.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;SENet (ImageNet 2017 Competition Winner)
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1709.01507.pdf&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1709.01507.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;MobileNet v2 (with detection and segmentation scores)
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/pdf/1801.04381.pdf&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1801.04381.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;efficient-semantic-segmentation-architectures&#34;&gt;Efficient Semantic Segmentation Architectures&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;DeepLab V3, PSPNet (Atrous Convolutions, Pyramidal Spatial Pooling)
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1706.05587&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1706.05587&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hszhao.github.io/projects/pspnet/&#34; target=&#34;_blank&#34;&gt;https://hszhao.github.io/projects/pspnet/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;architecture-search&#34;&gt;Architecture Search&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;NasNet
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://research.googleblog.com/2017/11/automl-for-large-scale-image.html&#34; target=&#34;_blank&#34;&gt;https://research.googleblog.com/2017/11/automl-for-large-scale-image.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1707.07012&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1707.07012&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Hierarchical Representations for Efficient Architecture Search
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1711.00436&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1711.00436&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Progressive Neural Architecture Search
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1712.00559&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1712.00559&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;CondenseNet
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1711.09224&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1711.09224&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;gpu-programming&#34;&gt;GPU Programming&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Follow course notes : &lt;a href=&#34;http://courses.cms.caltech.edu/cs179/&#34; target=&#34;_blank&#34;&gt;http://courses.cms.caltech.edu/cs179/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;theory-for-cnns&#34;&gt;Theory for CNNs&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Follow some papers from : &lt;a href=&#34;https://stats385.github.io/readings&#34; target=&#34;_blank&#34;&gt;https://stats385.github.io/readings&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;meetings&#34;&gt;Meetings&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;CNN Introduction and Survey | Depthwise Seperarable Convolutions (Inception, Xception, MobileNet) | Pruning and Quantization Introduction&lt;/li&gt;
-&lt;li&gt;ResNext | GPU Programming 1&lt;/li&gt;
-&lt;li&gt;FractualNets | Memory Efficient Convolutions (MEC)&lt;/li&gt;
-&lt;li&gt;CapsuleNet | tvmlang | Semantic segmentation architectures (PSP Module, Atrous convolutions from Deeplab v3)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;participants&#34;&gt;Participants&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ameya Prabhu&lt;/li&gt;
-&lt;li&gt;Aniruddha Vivek Patil&lt;/li&gt;
-&lt;li&gt;Sriharsha Annamaneni&lt;/li&gt;
-&lt;li&gt;Aaron Varghese&lt;/li&gt;
-&lt;li&gt;Vallurupalli Nikitha&lt;/li&gt;
-&lt;li&gt;Sudhir Kumar Reddy&lt;/li&gt;
-&lt;li&gt;Soham Saha&lt;/li&gt;
-&lt;li&gt;Ashutosh Mishra&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://example.org/teaching/efficient-cnns/</guid>
+      <description>Deep Neural Networks, while being unreasonably effective for several vision tasks, have their usage limited by the computational and memory requirements, both during training and inference stages. Analyzing and improving the connectivity patterns between layers of a network has resulted in several compact architectures like GoogleNet, ResNet and DenseNet-BC. We survey the most recent developments giving CNN architectures with better error vs resourse (parameters/FLOPs/energy/memory/fps) tradeoffs.
+We also plan to learn how to do fast implementations of CNNs in existing processing architectures.</description>
     </item>
     
     <item>
       <title>Multi Object Tracking using Deep Learning</title>
-      <link>http://geevi.github.io/teaching/mot/</link>
+      <link>http://example.org/teaching/mot/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://geevi.github.io/teaching/mot/</guid>
-      <description>
-
-&lt;p&gt;Multi Object Tracking is the task tracking objects in video frames. We survey the various types of MOT methods, with special focus on the latest methods that use Deep Learning.&lt;/p&gt;
-
-&lt;h3 id=&#34;papers&#34;&gt;Papers&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Learning to Track: Online Multi-object Tracking by Decision Making&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ICCV&amp;rsquo;15&lt;/li&gt;
-&lt;li&gt;Yu Xiang, Alexandre Alahi, Silvio Savarese&lt;/li&gt;
-&lt;li&gt;cvgl.stanford.edu/papers/xiang_iccv15.pdf&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Online Multi-Target Tracking Using Recurrent Neural Networks&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;AAAI&amp;rsquo;17&lt;/li&gt;
-&lt;li&gt;Anton Milan, Seyed Hamid Rezatofighi, Anthony Dick, Ian Reid, Konrad Schindler&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1604.03635&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1604.03635&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Deep Network Flow for Multi-Object Tracking&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;CVPR &amp;lsquo;17&lt;/li&gt;
-&lt;li&gt;Samuel Schulter, Paul Vernaza, Wongun Choi, Manmohan Chandraker&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1706.08482&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1706.08482&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Learning to Track at 100 FPS with Deep Regression Networks&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ECCV &amp;lsquo;16&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-46448-0_45&#34; target=&#34;_blank&#34;&gt;https://link.springer.com/chapter/10.1007/978-3-319-46448-0_45&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Deep tracking in the wild: End-to-end tracking using recurrent neural networks&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;IJRR &amp;lsquo;17&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.robots.ox.ac.uk/~mobile/Papers/2017_IJRR_Dequaire.pdf&#34; target=&#34;_blank&#34;&gt;http://www.robots.ox.ac.uk/~mobile/Papers/2017_IJRR_Dequaire.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Julie Dequaire, Peter Ondrúška, Dushyant Rao, Dominic Wang, and Ingmar Posner&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Survey Slides by Merc Benz&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://32e624bb-a-62cb3a1a-s-sites.googlegroups.com/site/dlitsc17/A%20Survey%20on%20Leveraging%20Deep%20Neural%20Networks%20for.pdf&#34; target=&#34;_blank&#34;&gt;https://32e624bb-a-62cb3a1a-s-sites.googlegroups.com/site/dlitsc17/A%20Survey%20on%20Leveraging%20Deep%20Neural%20Networks%20for.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Multiple Object Tracking: A Literature Review&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/1409.7618&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/1409.7618&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;A survey on multiple object tracking algorithm&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://ieeexplore.ieee.org/document/7832121/&#34; target=&#34;_blank&#34;&gt;http://ieeexplore.ieee.org/document/7832121/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Multiple Object Tracking: A Literature Review&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://pdfs.semanticscholar.org/8b42/8625c8a496c7e56b419197df55c751c22bc3.pdf&#34; target=&#34;_blank&#34;&gt;https://pdfs.semanticscholar.org/8b42/8625c8a496c7e56b419197df55c751c22bc3.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;students&#34;&gt;Students&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Vidit Jain&lt;/li&gt;
-&lt;li&gt;Mohammed Sharfuddin&lt;/li&gt;
-&lt;li&gt;Anjan Kumar&lt;/li&gt;
-&lt;li&gt;Haard Panjal&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://example.org/teaching/mot/</guid>
+      <description>Multi Object Tracking is the task tracking objects in video frames. We survey the various types of MOT methods, with special focus on the latest methods that use Deep Learning.
+Papers  Learning to Track: Online Multi-object Tracking by Decision Making
+ ICCV&amp;rsquo;15 Yu Xiang, Alexandre Alahi, Silvio Savarese cvgl.stanford.edu/papers/xiang_iccv15.pdf  Online Multi-Target Tracking Using Recurrent Neural Networks
+ AAAI&amp;rsquo;17 Anton Milan, Seyed Hamid Rezatofighi, Anthony Dick, Ian Reid, Konrad Schindler https://arxiv.</description>
     </item>
     
     <item>
       <title>Complexity Theory</title>
-      <link>http://geevi.github.io/teaching/complexity-theory/</link>
+      <link>http://example.org/teaching/complexity-theory/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://geevi.github.io/teaching/complexity-theory/</guid>
-      <description>
-
-&lt;p&gt;Complexity theory studies what problems can and cannot be solved by computers given limited running time and memory resources.&lt;/p&gt;
-
-&lt;p&gt;Students are expected to read the corresponding chapter from the textbook (mentioned under readings), before attending the lecture.
-The lecture is mainly for clearing doubts and covering the most confusing parts.&lt;/p&gt;
-
-&lt;p&gt;The is a short course with 13 lectures for students who might not have
-taken a Theory of Computation course. However sufficient knowledge of
-discrete maths and algorithms is assumed. It is not supposed to be a
-rigorous one, for research student, but rather an introduction to field
-of complexity theory.&lt;/p&gt;
-
-&lt;h3 id=&#34;timings&#34;&gt;Timings&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Wednesday (10:00 a.m.-11:25 a.m., Venue: 205)&lt;/li&gt;
-&lt;li&gt;Saturday (10:00 a.m.-11:25 a.m., Venue: 205)&lt;/li&gt;
-&lt;li&gt;Tutorial : Saturday (3:30 p.m.-4:30 p.m., Venue: 204)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;lectures&#34;&gt;Lectures&lt;/h3&gt;
-
-&lt;p&gt;Short notes are available with additional references : &lt;a href=&#34;notes&#34; target=&#34;_blank&#34;&gt;Consolidated Notes HTML&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt; &lt;br /&gt;
-Decision Problems | Turing Machines | Efficient Algorithms&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Paradox&amp;rsquo;s, Diagonalization, Undecidablility&lt;/strong&gt; &lt;br /&gt;
-Russell&amp;rsquo;s Paradox and Diagonalization | Universal Turing Machines | Halting Problem&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Nondeterminism, NP and Search Problems&lt;/strong&gt; &lt;br /&gt;
-Non Deterministic Turing Machines | Nondeterministic Polynomial Time : NP | NP : Verifier Definition | Descision vs Search Problems&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Reductions, NP-Completenesss &amp;amp; Cooks Theorem&lt;/strong&gt; &lt;br /&gt;
-Polynomial Time Reductions | Cook-Levin Theorem | NP Compeleness / Hardness&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;More Time Complexity&lt;/strong&gt; &lt;br /&gt;
-NP-completeness of Vertex Cover and Subset Sum | EXP and Time Heirachy Theorem | coNP and Map of Complexity classes&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Space Compleixty&lt;/strong&gt; &lt;br /&gt;
-Space Complexity classes and some Relationships | Non Determinism and Space : NL-complete, Savith&amp;rsquo;s Theorem | Overview of next part of course&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;NL = coNL, Randomization&lt;/strong&gt; &lt;br /&gt;
-Recapping Nondeterminism | Immerman-Szelepcsenyi Theorem : NL = coNL | Randomized TMs and Complexity Classes&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Randomized Algorithms&lt;/strong&gt; &lt;br /&gt;
-BPP and Amplification | Approx MAX-CUT | Undirected REACHABILITY in RL&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Random Walks, Derandomization and Polynomial Identity Testing&lt;/strong&gt; &lt;br /&gt;
-Analysis of Random Walks | Derandomizing MaxCUT | Randomization: PIT and Schwartz-Zippel Lemma&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Streaming Algorithms and Lowerbounds&lt;/strong&gt;  &lt;br /&gt;
-Schwartz Zippel Lemma Proof | Lowerbound for Bracket Matching | Randomized Streaming Algorithm for Bracket Matching&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Property Testing&lt;/strong&gt; &lt;br /&gt;
-Property Testing Model | Linearity Test by Blum, Luby and Rubinfield&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;PAC Learning&lt;/strong&gt;&lt;br /&gt;
-hugo&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;grading&#34;&gt;Grading&lt;/h3&gt;
-
-&lt;p&gt;This part of the course will have a total of 50 marks + 5 bonus marks.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;25 marks for the end sem.&lt;/li&gt;
-&lt;li&gt;15 marks for the mid sem.&lt;/li&gt;
-&lt;li&gt;10 marks for assignments.&lt;/li&gt;
-&lt;li&gt;5 marks for quiz.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2-3 question will be given out at the end of every lecture. There will be one tutorial
-session per week (to be scheduled), where the assignments for the previous week will be collected, and
-solutions will be discussed.&lt;/p&gt;
-
-&lt;h3 id=&#34;textbook-and-references&#34;&gt;Textbook and References&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;notes&#34; target=&#34;_blank&#34;&gt;Notes&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Textbook : Computational Complexity by Christos Papadimitriou&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Some courses offered elsewhere:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;[Sud] A course on complexity theory (offered by Madhu Sudan) at MIT: 6.&lt;sup&gt;841&lt;/sup&gt;&amp;frasl;&lt;sub&gt;18&lt;/sub&gt;.405J Advanced Complexity Theory (Spring 2003).&lt;/li&gt;
-&lt;li&gt;[Tre1] A course on complexity theory (offered by Luca Trevisan) at UC, Berkeley: CS 278 - Computational Complexity (Fall 2002).&lt;/li&gt;
-&lt;li&gt;[Tre2] A course on complexity theory (offered by Luca Trevisan) at UC, Berkeley: CS 278 - Computational Complexity (Fall 2004).&lt;/li&gt;
-&lt;li&gt;[Vad] A course of complexity theory (offered by Salil Vadhan) at Harvard: CS221: Computational Complexity (Spring 2010).&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://example.org/teaching/complexity-theory/</guid>
+      <description>Complexity theory studies what problems can and cannot be solved by computers given limited running time and memory resources.
+Students are expected to read the corresponding chapter from the textbook (mentioned under readings), before attending the lecture. The lecture is mainly for clearing doubts and covering the most confusing parts.
+The is a short course with 13 lectures for students who might not have taken a Theory of Computation course.</description>
     </item>
     
     <item>
       <title>Compressing Models for Recognizing Places</title>
-      <link>http://geevi.github.io/publication/compression-place/</link>
+      <link>http://example.org/publication/compression-place/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://geevi.github.io/publication/compression-place/</guid>
-      <description>&lt;p&gt;Visual place recognition on low memory devices such as mobile phones and robotics systems is a challenging problem. The state of the art models for this task uses deep learning architectures having close to 100 million parameters which takes over 400MB of memory. This makes these models infeasible to be deployed in low memory devices and gives rise to the need of compressing them. Hence we study the effectiveness of model compression techniques like trained quantization and pruning for reducing the number of parameters on one of the best performing image retrieval models called NetVLAD. We show that a compressed network can be created by starting with a model pre-trained for the task of visual place recognition and then fine-tuning it via trained pruning and quantization. The compressed model is able to produce the same mAP as the original uncompressed network. We achieve almost 50% parameter pruning with no loss in mAP and 70% pruning with close to 2% mAP reduction, while also performing 8-bit quantization. Furthermore, together with 5-bit quantization, we perform about 50% parameter reduction by pruning and get only about 3% reduction in mAP.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deep Learning Programming &amp; Deployment</title>
-      <link>http://geevi.github.io/talk/dl-prog-dep-lead-summ/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>http://geevi.github.io/talk/dl-prog-dep-lead-summ/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introduction to Machine Learning</title>
-      <link>http://geevi.github.io/talk/intro-mlschool17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>http://geevi.github.io/talk/intro-mlschool17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model Compression</title>
-      <link>http://geevi.github.io/talk/model-compression-mlschool17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
-      
-      <guid>http://geevi.github.io/talk/model-compression-mlschool17/</guid>
-      <description></description>
+      <guid>http://example.org/publication/compression-place/</guid>
+      <description>Visual place recognition on low memory devices such as mobile phones and robotics systems is a challenging problem. The state of the art models for this task uses deep learning architectures having close to 100 million parameters which takes over 400MB of memory. This makes these models infeasible to be deployed in low memory devices and gives rise to the need of compressing them. Hence we study the effectiveness of model compression techniques like trained quantization and pruning for reducing the number of parameters on one of the best performing image retrieval models called NetVLAD.</description>
     </item>
     
     <item>
       <title>Hardness of Approximate Coloring</title>
-      <link>http://geevi.github.io/publication/thesis/</link>
+      <link>http://example.org/publication/thesis/</link>
       <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://geevi.github.io/publication/thesis/</guid>
-      <description>&lt;p&gt;The graph coloring problem is a notoriously hard problem, for which we do not have efficient algorithms. A coloring of a graph is an assignment of colors to its vertices such that the end points of every edge have different colors. A k-coloring is a coloring that uses at most k distinct colors. The graph coloring problem is to find a coloring that uses the minimum number of colors. Given a 3-colorable graph, the best known efficient algorithms output an n0. 199···-coloring. It is known that efficient algorithms cannot find a 4-coloring, assuming &amp;hellip;&lt;/p&gt;
-</description>
+      <guid>http://example.org/publication/thesis/</guid>
+      <description>The graph coloring problem is a notoriously hard problem, for which we do not have efficient algorithms. A coloring of a graph is an assignment of colors to its vertices such that the end points of every edge have different colors. A k-coloring is a coloring that uses at most k distinct colors. The graph coloring problem is to find a coloring that uses the minimum number of colors. Given a 3-colorable graph, the best known efficient algorithms output an n0.</description>
+    </item>
+    
+    <item>
+      <title>A Characterization of Hard-to-cover CSPs</title>
+      <link>http://example.org/publication/characterization-covering/</link>
+      <pubDate>Thu, 10 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publication/characterization-covering/</guid>
+      <description>We continue the study of covering complexity of constraint satisfaction problems (CSPs) initiated by Guruswami, Hastad and Sudan [SIAM J. Computing, 31(6):1663&amp;ndash;1686, 2002] and Dinur and Kol [In Proc. 28th IEEE Conference on Computational Complexity, 2013]. The covering number of a CSP instance $\phi$, denoted by ν(Φ) is the smallest number of assignments to the variables of $\phi$, such that each constraint of Φ is satisfied by at least one of the assignments.</description>
+    </item>
+    
+    <item>
+      <title>Super-polylogarithmic hypergraph coloring hardness via low-degree long codes</title>
+      <link>http://example.org/publication/hyper-coloring-journal/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publication/hyper-coloring-journal/</guid>
+      <description>We prove improved inapproximability results for hypergraph coloring using the low-degree polynomial code (aka, the &amp;lsquo;short code&amp;rsquo; of Barak et. al. [FOCS 2012]) and the techniques proposed by Dinur and Guruswami [FOCS 2013] to incorporate this code for inapproximability results. In particular, we prove quasi-NP-hardness of the following problems on $n$-vertex hyper-graphs:
+ Coloring a 2-colorable 8-uniform hypergraph with $2^{2^{\Omega(loglog\sqrt{n})}}$ colors. Coloring a 4-colorable 4-uniform hypergraph with $2^{2^{\Omega(loglog\sqrt{n})}}$ colors. Coloring a 3-colorable 3-uniform hypergraph with $(log n)^{\Omega(1/logloglog n)}$ colors.</description>
+    </item>
+    
+    <item>
+      <title>On Fortification of Projection Games</title>
+      <link>http://example.org/publication/fortification/</link>
+      <pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publication/fortification/</guid>
+      <description>A recent result of Moshkovitz cite{Moshkovitz14} presented an ingenious method to provide a completely elementary proof of the Parallel Repetition Theorem for certain projection games via a construction called fortification. However, the construction used in cite{Moshkovitz14} to fortify arbitrary label cover instances using an arbitrary extractor is insufficient to prove parallel repetition. In this paper, we provide a fix by using a stronger graph that we call fortifiers. Fortifiers are graphs that have both 1 and 2 guarantees on induced distributions from large subsets.</description>
+    </item>
+    
+    <item>
+      <title>Reducing uniformity in Khot-Saket hypergraph coloring hardness reductions</title>
+      <link>http://example.org/publication/improved-khot-saket/</link>
+      <pubDate>Sun, 10 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publication/improved-khot-saket/</guid>
+      <description>In a recent result, Khot and Saket [FOCS 2014] proved the quasi-NP-hardness of coloring a 2-colorable 12-uniform hypergraph with 2(logn)Ω(1) colors. This result was proved using a novel outer PCP verifier which had a strong soundness guarantee. In this note, we show that we can reduce the arity of their result by modifying their 12-query inner verifier to an 8-query inner verifier based on the hypergraph coloring hardness reductions of Guruswami et.</description>
+    </item>
+    
+    <item>
+      <title>Derandomized Graph Product Results using the Low Degree Long Code</title>
+      <link>http://example.org/publication/graph-prods/</link>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publication/graph-prods/</guid>
+      <description>In this paper, we address the question of whether the recent derandomization results obtained by the use of the low-degree long code can be extended to other product settings. We consider two settings: (1) the graph product results of Alon, Dinur, Friedgut and Sudakov [GAFA, 2004] and (2) the \&amp;ldquo;majority is stablest\&amp;rdquo; type of result obtained by Dinur, Mossel and Regev [SICOMP, 2009] and Dinur and Shinkar [In Proc. APPROX, 2010] while studying the hardness of approximate graph coloring.</description>
+    </item>
+    
+    <item>
+      <title>Playing games in an uncertain world</title>
+      <link>http://example.org/publication/playing-games/</link>
+      <pubDate>Mon, 10 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publication/playing-games/</guid>
+      <description>Traditional game theory assumes that the players in the game are aware of the rules of the game. However, in practice, often the players are unaware or have only partial knowledge about the game they are playing. They may also have knowledge that other players have only partial knowledge of the game they are playing, which they can try to exploit. We present a novel mathematical formulation of such games. We make use of Kripke semantics, which are a way to keep track of what different players know and do not know about the world.</description>
+    </item>
+    
+    <item>
+      <title> Physarum Can Compute Shortest Paths</title>
+      <link>http://example.org/publication/slime-mold2/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publication/slime-mold2/</guid>
+      <description>Physarum polycephalum is a slime mold that is apparently able to solve shortest path problems. A mathematical model has been proposed by Tero et al. (Journal of Theoretical Biology, 244, 2007, pp. 553–564) to describe the feedback mechanism used by the slime mold to adapt its tubular channels while foraging two food sources s0 and s1. We prove that, under this model, the mass of the mold will eventually converge to the shortest path of the network that the mold lies on, independently of the structure of the network or of the initial mass distribution.</description>
+    </item>
+    
+    <item>
+      <title>Streaming Algorithms for Language Recognition Problems</title>
+      <link>http://example.org/publication/streaming2/</link>
+      <pubDate>Tue, 05 Apr 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publication/streaming2/</guid>
+      <description>We study the complexity of the following problems in the streaming model. Membership testing for DLIN We show that every language in DLIN can be recognised by a randomized one-pass O(logn) space algorithm with inverse polynomial one-sided error, and by a deterministic p-pass O(n/p) space algorithm. We show that these algorithms are optimal.Membership testing for LL(k). For languages generated by LL(k) grammars with a bound of r on the number of nonterminals at any stage in the left-most derivation, we show that membership can be tested by a randomized one-pass O(rlogn) space algorithm with inverse polynomial (in n) one-sided error.</description>
+    </item>
+    
+    <item>
+      <title>Conductance and eigenvalue</title>
+      <link>http://example.org/publication/conductance/</link>
+      <pubDate>Wed, 10 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publication/conductance/</guid>
+      <description></description>
     </item>
     
   </channel>
