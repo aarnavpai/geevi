@@ -17,8 +17,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://geevi.github.io/home/about/</guid>
-      <description>Hi! I am a scientist of Machine Learning at the Machine Learning Lab at IIIT Hyderabad. My primary research topic is Deep Learning, specifically Model Compression techniques and Semantic Segmentation for Autonomous Navigation.
-Previously I did my Phd thesis on Computational Complexity theory and continues to have interest in Complexity theory, Combinatorics and Graph theory.</description>
+      <description>Hi! I am an Asst. Prof. at the Center for Security, Theory &amp;amp; Algorithms Research (CSTAR) at IIIT Hyderabad. I am broadly interested in theoretical and applied computer science problems.
+I did my Phd thesis on Computational Complexity theory (at TIFR Mumbai) and continues to have interest in Complexity theory, Combinatorics and Graph theory. Later I went on to do research (at IIIT Hyderabad) in Deep Learning, specifically Model Compression techniques and Semantic Segmentation for Autonomous Navigation.</description>
     </item>
     
     <item>
@@ -159,6 +159,20 @@ We also plan to learn how to do fast implementations of CNNs in existing process
 Papers  Learning to Track: Online Multi-object Tracking by Decision Making
  ICCV&amp;rsquo;15 Yu Xiang, Alexandre Alahi, Silvio Savarese cvgl.stanford.edu/papers/xiang_iccv15.pdf  Online Multi-Target Tracking Using Recurrent Neural Networks
  AAAI&amp;rsquo;17 Anton Milan, Seyed Hamid Rezatofighi, Anthony Dick, Ian Reid, Konrad Schindler https://arxiv.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geevi.github.io/complexity-notes/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://geevi.github.io/complexity-notes/</guid>
+      <description>MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: &#34;AMS&#34; }, extensions: [&#34;AMSmath.js&#34;, &#34;AMSsymbols.js&#34;, &#34;autobold.js&#34;, &#34;color.js&#34;] } });   A Short Course on Complexity Theory  Nov 11, 2017 Table of contents  Lecture 1: Introduction 
+&amp;nbsp; &amp;nbsp; &amp;nbsp; Decision Problems 
+&amp;nbsp; &amp;nbsp; &amp;nbsp; Turing Machines 
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Robustness of TM 
+&amp;nbsp; &amp;nbsp; &amp;nbsp; Efficient Algorithms 
+&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Polynomial time vs Exponential Time</description>
     </item>
     
     <item>
