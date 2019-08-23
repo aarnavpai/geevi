@@ -241,15 +241,21 @@ $$ \left| \overline{ \cup_{i \in k} A_k } \right| \leq \sum_{S \subseteq [k]: |S
 <li><p><strong>Lec 8: Inclusion Exclusion | Proof using Linear Algebra</strong></p>
 
 <ul>
-<li>Read:</li>
+<li>Read:
+
+<ol>
 <li>[CoCo] Sections 2.1.2, 2.2.</li>
 <li>For Linear Algebra proof read <a href="http://www-math.mit.edu/~rstan/ec/ec1.pdf">RP Stanley</a> pages 223-225.</li>
-<li>Solve:</li>
+</ol></li>
 
+<li><p>Solve:</p>
+
+<ol>
 <li><p>Let $n \geq 2$ be a positive integer. The Euler totient function is defined by $\phi(n) = \left| \{ m: m &lt; n \text{ and } \text{gcd}(m,n) = 1 \} \right|$. If the prime factorization of $n$ is $n = p_1^{e_1}\cdot p_2^{e_2} \cdots p_k^{e_k}$. Show using inclusion exclusion that:
-  $$\phi(n) = n \prod_{i=1}^k \left(\frac{p_i - 1}{p_i}\right).$$</p>
+$$\phi(n) = n \prod_{i=1}^k \left(\frac{p_i - 1}{p_i}\right).$$</p>
 
-<p>[Hint] Choose sets $A_1, \cdots, A_k$ that can easily be counted such that $\phi(n) = \left| \overline{A_1 \cap \cdots \cap A_k} \right|$.</p></li>
+<p>[Hint] Choose sets $A_1, \cdots, A_k$ that can easily be counted such that $\phi(n) = \left| \overline{A_1 \cup \cdots \cup A_k} \right|$.</p></li>
+</ol></li>
 </ul></li>
 
 <li><p><strong>Quiz I</strong></p></li>
