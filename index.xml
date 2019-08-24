@@ -161,20 +161,6 @@ Tutorial cohosted with Prof.</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://girishvarma.in/complexity-notes/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/complexity-notes/</guid>
-      <description>MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: &#34;AMS&#34; }, extensions: [&#34;AMSmath.js&#34;, &#34;AMSsymbols.js&#34;, &#34;autobold.js&#34;, &#34;color.js&#34;] } });   A Short Course on Complexity Theory  Nov 11, 2017 Table of contents  Lecture 1: Introduction 
-&amp;nbsp; &amp;nbsp; &amp;nbsp; Decision Problems 
-&amp;nbsp; &amp;nbsp; &amp;nbsp; Turing Machines 
-&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Robustness of TM 
-&amp;nbsp; &amp;nbsp; &amp;nbsp; Efficient Algorithms 
-&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Polynomial time vs Exponential Time</description>
-    </item>
-    
-    <item>
       <title>Complexity Theory</title>
       <link>https://girishvarma.in/teaching/complexity-theory/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
