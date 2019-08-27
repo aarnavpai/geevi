@@ -83,10 +83,10 @@
 
 
   <div class="pub-title">
-    <h1 itemprop="name">IDD: A Dataset for exploring problems in Autonomous Navigation in Unconstrained Environments</h1>
+    <h1 itemprop="name">Dynamic Block Sparse Reparametarization of Convolutional Neural Networks</h1>
     <span class="pub-authors" itemprop="author">
       
-      Girish Varma, Anbumani Subramanian, <a href="https://faculty.iiit.ac.in/~anoop/">Anoop Namboodiri</a>, <a href='http://cseweb.ucsd.edu/~mkchandraker/'>Manmohan Chandraker</a>, <a href="https://faculty.iiit.ac.in/~jawahar">C V Jawahar</a>
+      Dharma Teja Vooturi, Girish Varma, Kishore Kothapalli
       
     </span>
   </div>
@@ -97,14 +97,15 @@
 
     <div class="pub-conf">
 
- <a href='https://wacv2019.org/'>IEEE Winter Conference on Applications of Computer Vision</a>
+ 4th International Workshop on
+Compact and Efficient Feature Representation and Learning in Computer Vision, ICCV 2019
         
     </div>
     <div class="visible-xs space-below"></div>
 
     <div class="pub-date">
       
-            October, 2018
+            August, 2019
       
     </div>
     <div class="visible-xs space-below"></div>
@@ -113,24 +114,12 @@
       
       
             
-<a role="button" class="btn btn-sm btn-outline-primary" href='https://arxiv.org/abs/1811.10200'>arXiv</a>
 
 
 
 
-<a role="button" class="btn btn-sm btn-outline-primary" href='https://girishvarma.in/pdfs/idd.pdf'>slides</a>
 
 
-<a role="button" class="btn btn-sm btn-outline-primary" href='https://girishvarma.in/pdfs/IDD_WACV19_Poster.pdf' href='https://girishvarma.in/pdfs/IDD_WACV19_Poster.pdf'>poster</a>
-
-
-<a role="button" class="btn btn-sm btn-outline-primary" href='https://github.com/AutoNUE/public-code' href='https://github.com/AutoNUE/public-code'>code</a>
-
-
-<a role="button" class="btn btn-sm btn-outline-primary" href='http://idd.insaan.iiit.ac.in' href='http://idd.insaan.iiit.ac.in'>dataset</a>
-
-
-<a role="button" class="btn btn-sm btn-outline-primary" href='https://docs.google.com/file/d/1eELxtxx7RutTxWtMHOKHRE_IsLa7uWmp/preview' href='https://docs.google.com/file/d/1eELxtxx7RutTxWtMHOKHRE_IsLa7uWmp/preview'>video</a>
 
 
       
@@ -142,19 +131,25 @@
     
           
     
-    <span class="d-inline-block  text-dark tag "> <a href="projects/autonomous-navigation">autonomous-navigation</a></span> 
-    
-    
-    
-          
-    
-    <span class="d-inline-block  text-dark tag "> <a href="projects/semantic-segmentation">semantic-segmentation</a></span> 
+    <span class="d-inline-block  text-dark tag "> <a href="projects/model-compression">model-compression</a></span> 
     
     
     
           
     
     <span class="d-inline-block  text-dark tag "> <a href="projects/computer-vision">computer-vision</a></span> 
+    
+    
+    
+          
+    
+    <span class="d-inline-block  text-dark tag "> <a href="projects/deep-learning">deep-learning</a></span> 
+    
+    
+    
+          
+    
+    <span class="d-inline-block  text-dark tag "> <a href="projects/machine-learning">machine-learning</a></span> 
     
     
 
@@ -164,18 +159,9 @@
 
     <div class="space-below"></div>
     
-    <h4 class="heading">Bibtex</h4>
-    <div class="article-style">@inproceedings{anue,
-  title={IDD: A Dataset for Exploring Problems of Autonomous Navigation in Unconstrained Environments},
-  author={Varma, Girish and Subramanian, Anbumani and Namboodiri, Anoop and Chandraker, Manmohan and Jawahar, CV.},
-  booktitle={2019 IEEE Winter Conference on Applications of Computer Vision (WACV)},
-  year={2019},
-  organization={IEEE}
-}</div>
-    
 
     <h4 class="heading">Abstract</h4>
-    <div class="article-style"><p>While several datasets for autonomous navigation have become available in recent years, they tend to focus on structured driving environments. This usually corresponds to well-delineated infrastructure such as lanes, a small number of well-defined categories for traffic participants, low variation in object or background appearance and strict adherence to traffic rules. We propose IDD, a novel dataset for road scene understanding in unstructured environments where the above assumptions are largely not satisfied. It consists of 10,004 images, finely annotated with 34 classes collected from 182 drive sequences on Indian roads. The label set is expanded in comparison to popular benchmarks such as Cityscapes, to account for new classes. It also reflects label distributions of road scenes significantly different from existing datasets, with most classes displaying greater within-class diversity.Consistent with real driving behaviors, it also identifies new classes such as drivable areas besides the road. We propose a new four-level label hierarchy, which allows varying degrees of complexity and opens up possibilities for new training methods. Our empirical study provides an in-depth analysis of the label characteristics. State-of-the-art methods for semantic segmentation achieve much lower accuracies on our dataset, demonstrating its distinction compared to Cityscapes. Finally, we propose that our dataset is an ideal opportunity for new problems such as domain adaptation, few-shot learning and behavior prediction in road scenes.</p>
+    <div class="article-style"><p>In recent years, the need for semantic segmentation has arisen across several different applications and environments. However, the expense and redundancy of annotation often limits the quantity of labels available for training in any domain, while deployment is easier if a single model works well across domains. In this paper, we pose the novel problem of universal semi-supervised semantic segmentation and propose a solution framework, to meet the dual needs of lower annotation and deployment costs. In contrast to counterpoints such as fine tuning, joint training or unsupervised domain adaptation, universal semi-supervised segmentation ensures that across all domains: (i) a single model is deployed, (ii) unlabeled data is used, (iii) performance is improved, (iv) only a few labels are needed and (v) label spaces may differ. To address this, we minimize supervised as well as within and cross-domain unsupervised losses, introducing a novel feature alignment objective based on pixel-aware entropy regularization for the latter. We demonstrate quantitative advantages over other approaches on several combinations of segmentation datasets across different geographies (Germany, England, India) and environments (outdoors, indoors), as well as qualitative insights on the aligned representations.</p>
 </div>
 
 
