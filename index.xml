@@ -85,7 +85,7 @@ Tutorial cohosted with Prof.</description>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/publication/block-sparse/</guid>
-      <description>In recent years, the need for semantic segmentation has arisen across several different applications and environments. However, the expense and redundancy of annotation often limits the quantity of labels available for training in any domain, while deployment is easier if a single model works well across domains. In this paper, we pose the novel problem of universal semi-supervised semantic segmentation and propose a solution framework, to meet the dual needs of lower annotation and deployment costs.</description>
+      <description>Sparse neural networks are efficient in both memory and compute when compared to dense neural networks. But on parallel hardware such as GPU, sparse neural networks result in small or no runtime performance gains. On the other hand, structured sparsity patterns like filter, channel and block sparsity result in large performance gains due to regularity induced by structure. Among structured sparsities, block sparsity is a generic structured sparsity pattern with filter and channel sparsity being sub cases of block sparsity.</description>
     </item>
     
     <item>
