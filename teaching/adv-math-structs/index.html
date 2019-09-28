@@ -101,6 +101,8 @@ MathJax.Hub.Config({
 
 <p><strong>Goal</strong>: By the end of the course, students should be able to read and understand research papers with algebraic/combinatorial reasoning. They should should be able to write concise and clear proofs.</p>
 
+<p><strong>Prerequisites</strong>: Students are expected to have already attended Discrete Maths, Linear Algebra and Probability courses some time in their career. Though we will spend some time revising these, we will quickly move on to advanced topics.</p>
+
 <p><strong>Acknowledgements</strong>: This course is loosely based on a similar course offered by Jaikumar Radhakrishnan (<a href="http://www.tcs.tifr.res.in/~jaikumar/Courses/MathStructures/Autumn06/">http://www.tcs.tifr.res.in/~jaikumar/Courses/MathStructures/Autumn06/</a>) at TIFR, Mumbai.</p>
 
 <h2 id="grading">Grading</h2>
@@ -329,10 +331,14 @@ $$ {k \choose 0} - {k \choose 1} + \cdots + (-1)^r { k \choose r } \geq 0$$</li>
 <li><p><em>Solve</em></p>
 
 <ol>
-<li>Suppose $A$ is a randomized algorithm for a decision problem ($0,1$ output)  which takes $x \in \{0,1\}^n$ as input. Also suppose we provide all the randomness that the algorithm requires by giving it a string $r \in \{0,1\}^m$ which is chosen uniformly at random. You are told that for all inputs $x \in \{0,1\}^n$, the algorithm is correct with probability
+<li><p>Suppose $A$ is a randomized algorithm for a decision problem ($0,1$ output)  which takes $x \in \{0,1\}^n$ as input. Also suppose we provide all the randomness that the algorithm requires by giving it a string $r \in \{0,1\}^m$ which is chosen uniformly at random. You are told that for all inputs $x \in \{0,1\}^n$, the algorithm is correct with probability
 $1-\frac{1}{2^{n+1}}$. That is
 $$ \forall x \in \{0, 1\}^n, \Pr_{r \in \{0, 1\}^m}\left[A(x,r) \text{ is correct}\right] \geq 1 - \frac{1}{2^{n+1}}.$$
-Then show that there is a fixed string $r \in \{0,1\}^m$ such that for every input $x\in \{0,1\}^n$, $A(x,r)$ is correct.</li>
+Then show that there is a fixed string $r \in \{0,1\}^m$ such that for every input $x\in \{0,1\}^n$, $A(x,r)$ is correct.</p></li>
+
+<li><p>Let $p(x_1,x_2,\cdots,x_n)$ be a nonzero polynomial of total degree $d$ (maximum of the sum of degrees of each variable among all monomials) on $n$ variables with coefficients from a finite field $\mathbb F$.  Let $\alpha_1,\cdots, \alpha_n$ be chosen uniformly and independently from $\mathbb F$. Show that:
+$$ \Pr\left[p(\alpha_1,\cdots, \alpha_n) = 0 \right] \leq \frac{d}{|\mathbb F|}.$$
+Hint: Use induction on number of variables $n$.</p></li>
 </ol></li>
 </ul></li>
 
