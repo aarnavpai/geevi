@@ -317,12 +317,21 @@ $$ {k \choose 0} - {k \choose 1} + \cdots + (-1)^r { k \choose r } \geq 0$$</li>
 <li><p><strong>Lec 14: Probability and Computing | PIT | Min Cut | Erdős Ko Rado</strong></p>
 
 <ul>
-<li><em>Read</em>
+<li><p><em>Read</em></p>
 
 <ul>
 <li>Min Cut: <a href="http://faculty.cs.tamu.edu/klappi/cpsc411s09/minimum_cut.pdf">http://faculty.cs.tamu.edu/klappi/cpsc411s09/minimum_cut.pdf</a></li>
 <li>Probability Basics and EKR (Section 2.3): <a href="http://www.cs.cmu.edu/~15850/handouts/matousek-vondrak-prob-ln.pdf">http://www.cs.cmu.edu/~15850/handouts/matousek-vondrak-prob-ln.pdf</a></li>
 </ul></li>
+
+<li><p><em>Solve</em></p>
+
+<ol>
+<li>Suppose $A$ is a randomized algorithm for a decision problem ($0,1$ output)  which takes $x \in \{0,1\}^n$ as input. Also suppose we provide all the randomness that the algorithm requires by giving it a string $r \in \{0,1\}^m$ which is chosen uniformly at random. You are told that for all inputs $x \in \{0,1\}^n$, the algorithm is correct with probability
+$1-\frac{1}{2^{n+1}}$. That is
+$$ \forall x \in \{0, 1\}^n, \Pr_{r \in \{0, 1\}^m}\left[A(x,r) \text{ is correct}\right] \geq 1 - \frac{1}{2^{n+1}}.$$
+Then show that there is a fixed string $r \in \{0,1\}^m$ such that for every input $x\in \{0,1\}^n$, $A(x,r)$ is correct.</li>
+</ol></li>
 </ul></li>
 
 <li><p><strong>Probabilistic Method</strong></p></li>
