@@ -6,10 +6,19 @@
     <description>Recent content in semantic-segmentation on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://girishvarma.in/projects/semantic-segmentation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Semantic Segmentation Datasets for Resource Constrained Training</title>
+      <link>https://girishvarma.in/publication/idd-lite/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/publication/idd-lite/</guid>
+      <description>Several large scale datasets, coupled with advances in deep neural network architectures have been greatly successful in pushing the boundaries of performance in semantic segmentation in recent years. However, the scale and magnitude of such datasets prohibits ubiquitous use and widespread adoption of such models, especially in settings with serious hardware and software resource constraints. Through this work, we propose two simple variants of the recently proposed IDD dataset, namely IDD-mini and IDD-lite, for scene understanding in unstructured environments.</description>
+    </item>
     
     <item>
       <title>Universal Semi-supervised Semantic Segmentation</title>

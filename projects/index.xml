@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://girishvarma.in/projects/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,36 @@
     <item>
       <title>computer-vision</title>
       <link>https://girishvarma.in/projects/computer-vision/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/projects/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://girishvarma.in/projects/machine-learning/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>model-compression</title>
+      <link>https://girishvarma.in/projects/model-compression/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/model-compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semantic-segmentation</title>
+      <link>https://girishvarma.in/projects/semantic-segmentation/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/semantic-segmentation/</guid>
       <description></description>
     </item>
     
@@ -30,38 +57,11 @@
     </item>
     
     <item>
-      <title>machine-learning</title>
-      <link>https://girishvarma.in/projects/machine-learning/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/projects/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>model-compression</title>
-      <link>https://girishvarma.in/projects/model-compression/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/projects/model-compression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>autonomous-navigation</title>
       <link>https://girishvarma.in/projects/autonomous-navigation/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/projects/autonomous-navigation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>semantic-segmentation</title>
-      <link>https://girishvarma.in/projects/semantic-segmentation/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/projects/semantic-segmentation/</guid>
       <description></description>
     </item>
     
