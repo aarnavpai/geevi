@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -27,15 +27,28 @@
   </url>
   
   <url>
+    <loc>https://girishvarma.in/projects/computer-vision/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://girishvarma.in/</loc>
     <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/machine-learning/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/model-compression/</loc>
+    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://girishvarma.in/projects/</loc>
     <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -44,27 +57,13 @@
   </url>
   
   <url>
-    <loc>https://girishvarma.in/projects/computer-vision/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://girishvarma.in/projects/machine-learning/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://girishvarma.in/projects/model-compression/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://girishvarma.in/projects/semantic-segmentation/</loc>
     <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/deep-learning/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -73,20 +72,13 @@
   </url>
   
   <url>
-    <loc>https://girishvarma.in/projects/deep-learning/</loc>
-    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://girishvarma.in/projects/autonomous-navigation/</loc>
+    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://girishvarma.in/publication/univ-seg/</loc>
     <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://girishvarma.in/projects/autonomous-navigation/</loc>
-    <lastmod>2018-11-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -107,7 +99,6 @@
   <url>
     <loc>https://girishvarma.in/projects/localization/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -123,7 +114,6 @@
   <url>
     <loc>https://girishvarma.in/projects/transportation/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -134,7 +124,6 @@
   <url>
     <loc>https://girishvarma.in/projects/latent-heirarchy/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -150,11 +139,15 @@
   <url>
     <loc>https://girishvarma.in/teaching/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://girishvarma.in/teaching/complexity-theory/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/complexity-theory/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -164,15 +157,8 @@
   </url>
   
   <url>
-    <loc>https://girishvarma.in/projects/complexity-theory/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://girishvarma.in/projects/image-retrieval/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -188,13 +174,11 @@
   <url>
     <loc>https://girishvarma.in/projects/hardness-of-approximation/</loc>
     <lastmod>2016-01-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://girishvarma.in/projects/probabilistically-checkable-proofs/</loc>
     <lastmod>2016-01-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -208,14 +192,13 @@
   </url>
   
   <url>
-    <loc>https://girishvarma.in/publication/fortification/</loc>
+    <loc>https://girishvarma.in/projects/game-theory/</loc>
     <lastmod>2015-08-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://girishvarma.in/projects/game-theory/</loc>
+    <loc>https://girishvarma.in/publication/fortification/</loc>
     <lastmod>2015-08-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -231,7 +214,6 @@
   <url>
     <loc>https://girishvarma.in/projects/graph-theory/</loc>
     <lastmod>2015-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -247,13 +229,11 @@
   <url>
     <loc>https://girishvarma.in/projects/algorithms/</loc>
     <lastmod>2012-09-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://girishvarma.in/projects/physarum-computer/</loc>
     <lastmod>2012-09-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -264,7 +244,6 @@
   <url>
     <loc>https://girishvarma.in/projects/streaming-algorithms/</loc>
     <lastmod>2011-04-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -278,7 +257,6 @@
   
   <url>
     <loc>https://girishvarma.in/home/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
