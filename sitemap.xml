@@ -28,7 +28,18 @@
   
   <url>
     <loc>https://girishvarma.in/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/teaching/prob-graph-models/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/teaching/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -145,12 +156,6 @@
   <url>
     <loc>https://girishvarma.in/teaching/mot/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://girishvarma.in/teaching/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

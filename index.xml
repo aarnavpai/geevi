@@ -6,7 +6,7 @@
     <description>Recent content on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://girishvarma.in/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,7 +27,8 @@ I did my Phd thesis on Computational Complexity theory (at TIFR Mumbai) and cont
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/home/teaching/</guid>
-      <description> Teaching  Probability and Statistics, August 2019.
+      <description> Teaching  Probabilistic Graphical Models, Jan 2020.
+ Probability and Statistics, August 2019.
  Advanced Mathematical Structures, August 2019. 
  AI/ML for Natural Sciences (Aug 2019) (Jan 2019)
  Foundations of Artificial Intelligence and Machine Learning
@@ -76,6 +77,19 @@ Theory Seminars at IIIT Hyderabad. June 1, 2019
       
       <guid>https://girishvarma.in/home/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Graphical Models</title>
+      <link>https://girishvarma.in/teaching/prob-graph-models/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/prob-graph-models/</guid>
+      <description>Probabilistic Graphical Models refers to concise representations of probability distributions using graphs.
+It also studies efficient algorithms for sampling distrubtions represented in such form. Sampling might need to be done from
+the joint probability distribution, the marinals or even conditional distributions. Other algoritmic questions involve computing
+the Maximum Likelihood Estimate (MLE), Maximum Aposteriori Estimate (MAP) etc. This topic has deep connections and applications to various
+fields including Theoretical Computer Science, Machine Learning, Statistical Physics, Bioinformatics etc.</description>
     </item>
     
     <item>
