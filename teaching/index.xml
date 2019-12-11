@@ -18,8 +18,8 @@
       
       <guid>https://girishvarma.in/teaching/prob-graph-models/</guid>
       <description>Probabilistic Graphical Models refers to concise representations of probability distributions using graphs.
-It also studies efficient algorithms for sampling distrubtions represented in such form. Sampling might need to be done from
-the joint probability distribution, the marinals or even conditional distributions. Other algoritmic questions involve computing
+It also studies efficient algorithms for sampling distributions represented in such form. Sampling might need to be done from
+the joint probability distribution, the marginals or even conditional distributions. Other algorithmic questions involve computing
 the Maximum Likelihood Estimate (MLE), Maximum Aposteriori Estimate (MAP) etc. This topic has deep connections and applications to various
 fields including Theoretical Computer Science, Machine Learning, Statistical Physics, Bioinformatics etc.</description>
     </item>
