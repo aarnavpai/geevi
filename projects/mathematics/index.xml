@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mathematics on Girish Varma</title>
+    <link>https://girishvarma.in/projects/mathematics/</link>
+    <description>Recent content in mathematics on Girish Varma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://girishvarma.in/projects/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Advanced Mathematical Structures</title>
+      <link>https://girishvarma.in/teaching/adv-math-structs/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/adv-math-structs/</guid>
+      <description>This course is intended to familiarize the students with the types of mathematical reasoning found in theoretical research on computing and communications. The course contains a broad set of intermediate and advanced level topics in Algebra, Combinatorics, Probability and Graph Theory.</description>
+    </item>
+    
+    <item>
+      <title>Probability &amp; Statistics</title>
+      <link>https://girishvarma.in/teaching/prob-stat/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/prob-stat/</guid>
+      <description>A first undergraduate course in probability and statistics with a focus on discrete spaces.</description>
+    </item>
+    
+  </channel>
+</rss>

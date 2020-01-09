@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>theory-cs on Girish Varma</title>
+    <link>https://girishvarma.in/projects/theory-cs/</link>
+    <description>Recent content in theory-cs on Girish Varma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://girishvarma.in/projects/theory-cs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://girishvarma.in/students/athreya-c/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/students/athreya-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://girishvarma.in/students/shantanu/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/students/shantanu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://girishvarma.in/students/sumit-kumar/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/students/sumit-kumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Graphical Models</title>
+      <link>https://girishvarma.in/teaching/prob-graph-models/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/prob-graph-models/</guid>
+      <description>Probabilistic Graphical Models refers to  i.) concise representations of probability distributions using graphs ii.) efficient algorithms for sampling distributions represented in such form iii.) learning these representations from data.</description>
+    </item>
+    
+    <item>
+      <title>Advanced Mathematical Structures</title>
+      <link>https://girishvarma.in/teaching/adv-math-structs/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/adv-math-structs/</guid>
+      <description>This course is intended to familiarize the students with the types of mathematical reasoning found in theoretical research on computing and communications. The course contains a broad set of intermediate and advanced level topics in Algebra, Combinatorics, Probability and Graph Theory.</description>
+    </item>
+    
+  </channel>
+</rss>

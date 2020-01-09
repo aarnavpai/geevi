@@ -17,11 +17,25 @@
       <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/teaching/prob-graph-models/</guid>
-      <description>Probabilistic Graphical Models refers to concise representations of probability distributions using graphs.
-It also studies efficient algorithms for sampling distributions represented in such form. Sampling might need to be done from
-the joint probability distribution, the marginals or even conditional distributions. Other algorithmic questions involve computing
-the Maximum Likelihood Estimate (MLE), Maximum Aposteriori Estimate (MAP) etc. This topic has deep connections and applications to various
-fields including Theoretical Computer Science, Machine Learning, Statistical Physics, Bioinformatics etc.</description>
+      <description>Probabilistic Graphical Models refers to  i.) concise representations of probability distributions using graphs ii.) efficient algorithms for sampling distributions represented in such form iii.) learning these representations from data.</description>
+    </item>
+    
+    <item>
+      <title>Advanced Mathematical Structures</title>
+      <link>https://girishvarma.in/teaching/adv-math-structs/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/adv-math-structs/</guid>
+      <description>This course is intended to familiarize the students with the types of mathematical reasoning found in theoretical research on computing and communications. The course contains a broad set of intermediate and advanced level topics in Algebra, Combinatorics, Probability and Graph Theory.</description>
+    </item>
+    
+    <item>
+      <title>Probability &amp; Statistics</title>
+      <link>https://girishvarma.in/teaching/prob-stat/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/prob-stat/</guid>
+      <description>A first undergraduate course in probability and statistics with a focus on discrete spaces.</description>
     </item>
     
     <item>
@@ -49,25 +63,6 @@ fields including Theoretical Computer Science, Machine Learning, Statistical Phy
       
       <guid>https://girishvarma.in/teaching/complexity-theory/</guid>
       <description>Surveying Deep learning methods used in Reinforcement Learning</description>
-    </item>
-    
-    <item>
-      <title>Advanced Mathematical Structures</title>
-      <link>https://girishvarma.in/teaching/adv-math-structs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/teaching/adv-math-structs/</guid>
-      <description>This course is intended to familiarize the students with the types of mathematical reasoning found in theoretical research on computing and communications. The course contains a broad set of intermediate and advanced level topics in Algebra, Combinatorics, Probability and Graph Theory.
-Goal: By the end of the course, students should be able to read and understand research papers with algebraic/combinatorial reasoning. They should should be able to write concise and clear proofs.</description>
-    </item>
-    
-    <item>
-      <title>Probability &amp; Statistics</title>
-      <link>https://girishvarma.in/teaching/prob-stat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/teaching/prob-stat/</guid>
-      <description>A first undergraduate course in probability and statistics with a focus on discrete spaces.</description>
     </item>
     
   </channel>

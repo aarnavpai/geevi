@@ -6,7 +6,7 @@
     <description>Recent content on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://girishvarma.in/index.xml" rel="self" type="application/rss+xml" />
     
@@ -54,6 +54,15 @@ Theory Seminars at IIIT Hyderabad. June 1, 2019
     
     <item>
       <title></title>
+      <link>https://girishvarma.in/home/group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/home/group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://girishvarma.in/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -80,16 +89,84 @@ Theory Seminars at IIIT Hyderabad. June 1, 2019
     </item>
     
     <item>
+      <title></title>
+      <link>https://girishvarma.in/students/aditya-kallapa/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/students/aditya-kallapa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://girishvarma.in/students/athreya-c/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/students/athreya-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://girishvarma.in/students/furqan-sheik/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/students/furqan-sheik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://girishvarma.in/students/garima-nishad/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/students/garima-nishad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://girishvarma.in/students/prateek-pani/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/students/prateek-pani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://girishvarma.in/students/sandeep-kumar/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/students/sandeep-kumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://girishvarma.in/students/shantanu/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/students/shantanu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://girishvarma.in/students/sumit-kumar/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/students/sumit-kumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Probabilistic Graphical Models</title>
       <link>https://girishvarma.in/teaching/prob-graph-models/</link>
       <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/teaching/prob-graph-models/</guid>
-      <description>Probabilistic Graphical Models refers to concise representations of probability distributions using graphs.
-It also studies efficient algorithms for sampling distributions represented in such form. Sampling might need to be done from
-the joint probability distribution, the marginals or even conditional distributions. Other algorithmic questions involve computing
-the Maximum Likelihood Estimate (MLE), Maximum Aposteriori Estimate (MAP) etc. This topic has deep connections and applications to various
-fields including Theoretical Computer Science, Machine Learning, Statistical Physics, Bioinformatics etc.</description>
+      <description>Probabilistic Graphical Models refers to  i.) concise representations of probability distributions using graphs ii.) efficient algorithms for sampling distributions represented in such form iii.) learning these representations from data.</description>
     </item>
     
     <item>
@@ -108,6 +185,24 @@ fields including Theoretical Computer Science, Machine Learning, Statistical Phy
       
       <guid>https://girishvarma.in/publication/block-sparse/</guid>
       <description>Sparse neural networks are efficient in both memory and compute when compared to dense neural networks. But on parallel hardware such as GPU, sparse neural networks result in small or no runtime performance gains. On the other hand, structured sparsity patterns like filter, channel and block sparsity result in large performance gains due to regularity induced by structure. Among structured sparsities, block sparsity is a generic structured sparsity pattern with filter and channel sparsity being sub cases of block sparsity.</description>
+    </item>
+    
+    <item>
+      <title>Advanced Mathematical Structures</title>
+      <link>https://girishvarma.in/teaching/adv-math-structs/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/adv-math-structs/</guid>
+      <description>This course is intended to familiarize the students with the types of mathematical reasoning found in theoretical research on computing and communications. The course contains a broad set of intermediate and advanced level topics in Algebra, Combinatorics, Probability and Graph Theory.</description>
+    </item>
+    
+    <item>
+      <title>Probability &amp; Statistics</title>
+      <link>https://girishvarma.in/teaching/prob-stat/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/prob-stat/</guid>
+      <description>A first undergraduate course in probability and statistics with a focus on discrete spaces.</description>
     </item>
     
     <item>
@@ -298,25 +393,6 @@ fields including Theoretical Computer Science, Machine Learning, Statistical Phy
       
       <guid>https://girishvarma.in/publication/conductance/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Advanced Mathematical Structures</title>
-      <link>https://girishvarma.in/teaching/adv-math-structs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/teaching/adv-math-structs/</guid>
-      <description>This course is intended to familiarize the students with the types of mathematical reasoning found in theoretical research on computing and communications. The course contains a broad set of intermediate and advanced level topics in Algebra, Combinatorics, Probability and Graph Theory.
-Goal: By the end of the course, students should be able to read and understand research papers with algebraic/combinatorial reasoning. They should should be able to write concise and clear proofs.</description>
-    </item>
-    
-    <item>
-      <title>Probability &amp; Statistics</title>
-      <link>https://girishvarma.in/teaching/prob-stat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/teaching/prob-stat/</guid>
-      <description>A first undergraduate course in probability and statistics with a focus on discrete spaces.</description>
     </item>
     
     <item>

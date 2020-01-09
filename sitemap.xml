@@ -15,6 +15,10 @@
   </url>
   
   <url>
+    <loc>https://girishvarma.in/home/group/</loc>
+  </url>
+  
+  <url>
     <loc>https://girishvarma.in/home/projects/</loc>
   </url>
   
@@ -27,8 +31,102 @@
   </url>
   
   <url>
+    <loc>https://girishvarma.in/students/aditya-kallapa/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/students/athreya-c/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/students/furqan-sheik/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/students/garima-nishad/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/students/prateek-pani/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/students/sandeep-kumar/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/students/shantanu/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/students/sumit-kumar/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://girishvarma.in/</loc>
-    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/students/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/algorithms/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/computer-vision/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/deep-learning/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/learning-theory/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/machine-learning/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/ml-for-medicine/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/theory-cs/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -44,26 +142,8 @@
   </url>
   
   <url>
-    <loc>https://girishvarma.in/projects/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://girishvarma.in/publication/idd-lite/</loc>
     <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://girishvarma.in/projects/computer-vision/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://girishvarma.in/projects/machine-learning/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -84,8 +164,18 @@
   </url>
   
   <url>
-    <loc>https://girishvarma.in/projects/deep-learning/</loc>
-    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+    <loc>https://girishvarma.in/teaching/adv-math-structs/</loc>
+    <lastmod>2019-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/teaching/prob-stat/</loc>
+    <lastmod>2019-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/mathematics/</loc>
+    <lastmod>2019-07-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -250,12 +340,6 @@
   </url>
   
   <url>
-    <loc>https://girishvarma.in/projects/algorithms/</loc>
-    <lastmod>2012-09-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://girishvarma.in/projects/physarum-computer/</loc>
     <lastmod>2012-09-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -278,16 +362,8 @@
   </url>
   
   <url>
-    <loc>https://girishvarma.in/teaching/adv-math-structs/</loc>
-  </url>
-  
-  <url>
     <loc>https://girishvarma.in/home/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://girishvarma.in/teaching/prob-stat/</loc>
   </url>
   
   <url>
