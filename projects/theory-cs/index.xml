@@ -41,7 +41,7 @@
     <item>
       <title>Probabilistic Graphical Models</title>
       <link>https://girishvarma.in/teaching/prob-graph-models/</link>
-      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/teaching/prob-graph-models/</guid>
       <description>Probabilistic Graphical Models refers to  i.) concise representations of probability distributions using graphs ii.) efficient algorithms for sampling distributions represented in such form iii.) learning these representations from data.</description>
@@ -54,6 +54,15 @@
       
       <guid>https://girishvarma.in/teaching/adv-math-structs/</guid>
       <description>This course is intended to familiarize the students with the types of mathematical reasoning found in theoretical research on computing and communications. The course contains a broad set of intermediate and advanced level topics in Algebra, Combinatorics, Probability and Graph Theory.</description>
+    </item>
+    
+    <item>
+      <title>Complexity Theory</title>
+      <link>https://girishvarma.in/teaching/complexity-theory/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/complexity-theory/</guid>
+      <description>A short 12 lecture course on Computational Complexity Theory.</description>
     </item>
     
   </channel>
