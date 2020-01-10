@@ -79,6 +79,15 @@
             </div>
         </div>
     </nav>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']], }
+  });
+  </script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 <div class="container">
 
 <div class="row">
@@ -219,6 +228,9 @@ fields including Theoretical Computer Science, Machine Learning, Statistical Phy
 
 <ul>
 <li><em>Read:</em> For recalling basics of probability and graph theory, please go through [DB] Chapter 1, 2</li>
+<li><em>Solve:</em> For any two distributions $p,q$ on $\{1, \cdots, n \}$, show that:<br />
+$$\max_{A \subseteq \{1, \cdots, n\}} | p(A) - q(A) | = \frac{\sum_{i=1}^n | p(i) - q(i) |}{2}.$$
+Note that the event $A$ choosen in LHS is a way of distinguishing $p$ from $q$ using $1$ sample in the best possible way. The RHS is the $\ell_1$ norm $|p - q|_1$.</li>
 </ul></li>
 
 <li><p><strong>Lec 2: Belief Networks I</strong><br />
