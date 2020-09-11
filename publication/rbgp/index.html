@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    
+    
+    
+    
+    
+    <meta name="generator" content="Hugo 0.68.3" />
+
+    <title>Girish Varma</title>
+
+    
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+
+    
+    <link href="/css/scrolling-nav.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Neuton" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="https://girishvarma.in/css/style.css">
+
+</head>
+
+
+
+<body id="page-top">
+    
+
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="https://girishvarma.in">Girish Varma</a>
+            <button class="navbar-toggler collapsed" type="button" data-toggle="collapse"
+                data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse" id="navbarResponsive" style="">
+                <ul class="navbar-nav ml-auto">
+                    
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="/#about">Home</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="/#teaching">Teaching</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="/#events">Events</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="/#group">Group</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="/#projects">Research</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="/#publications">Publications</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="/pdfs/girish-resume.pdf">CV</a>
+                    </li>
+                    
+                </ul>
+                <a href="/#contact" class="btn btn-outline" role="button">Contact</a>
+                
+            </div>
+        </div>
+    </nav>
+<div class="container">
+
+<div class="row">
+
+<div class="col-lg-8 col-centered pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+
+  <div class="pub-title">
+    <h1 itemprop="name">Ramanujan Bipartite Graph Products for Efficient Block Sparse Neural Networks</h1>
+    <span class="pub-authors" itemprop="author">
+      
+      Dharma Teja Vooturi, Girish Varma, Kishore Kothapalli
+      
+    </span>
+  </div>
+
+  <div class="article-container">
+
+    
+
+    <div class="pub-conf">
+
+ arXiv
+        
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="pub-date">
+      
+            July, 2020
+      
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="pub-links" style="padding-top: 10px">
+      
+      
+            
+<a role="button" class="btn btn-sm btn-outline-primary" href='https://arxiv.org/abs/2006.13486'>arXiv</a>
+
+
+<a role="button" class="btn btn-sm btn-outline-primary" href='https://arxiv.org/abs/2006.13486'>pdf</a>
+
+
+
+
+
+
+
+
+      
+      
+    </div>
+
+    <div class="tag-date pub-label">
+    
+    
+          
+    
+    <span class="d-inline-block  text-dark tag "> <a href="projects/model-compression">model-compression</a></span> 
+    
+    
+    
+          
+    
+    <span class="d-inline-block  text-dark tag "> <a href="projects/computer-vision">computer-vision</a></span> 
+    
+    
+    
+          
+    
+    <span class="d-inline-block  text-dark tag "> <a href="projects/deep-learning">deep-learning</a></span> 
+    
+    
+    
+          
+    
+    <span class="d-inline-block  text-dark tag "> <a href="projects/machine-learning">machine-learning</a></span> 
+    
+    
+
+    </div>
+    <div class="visible-xs space-below"></div>
+
+
+    <div class="space-below"></div>
+    
+    <h4 class="heading">Bibtex</h4>
+    <div class="article-style">@misc{vooturi2020ramanujan,
+    title={Ramanujan Bipartite Graph Products for Efficient Block Sparse Neural Networks},
+    author={Dharma Teja Vooturi and Girish Varma and Kishore Kothapalli},
+    year={2020},
+    eprint={2006.13486},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+</div>
+    
+
+    <h4 class="heading">Abstract</h4>
+    <div class="article-style"><p>Sparse neural networks are shown to give accurate predictions competitive to denser versions, while also minimizing the number of arithmetic operations performed. However current hardware like GPU&rsquo;s can only exploit structured sparsity patterns for better efficiency. Hence the run time of a sparse neural network may not correspond to the arithmetic operations required.</p>
+<p>In this work, we propose RBGP( Ramanujan Bipartite Graph Product) framework for generating structured multi level block sparse neural networks by using the theory of Graph products. We also propose to use products of Ramanujan graphs which gives the best connectivity for a given level of sparsity. This essentially ensures that the i.) the networks has the structured block sparsity for which runtime efficient algorithms exists ii.) the model gives high prediction accuracy, due to the better expressive power derived from the connectivity of the graph iii.) the graph data structure has a succinct representation that can be stored efficiently in memory. We use our framework to design a specific connectivity pattern called RBGP4 which makes efficient use of the memory hierarchy available on GPU. We benchmark our approach by experimenting on image classification task over CIFAR dataset using VGG19 and WideResnet-40-4 networks and achieve 5-9x and 2-5x runtime gains over unstructured and block sparsity patterns respectively, while achieving the same level of accuracy.</p>
+</div>
+
+
+  </div>
+</div>
+</div>
+</div>
+
+
+    
+    <footer class="py-5 bg-dark">
+        <div class="container">
+          <p class="m-0 text-center text-white">
+              © 2017 Girish Varma · Powered by the Research Portfolio theme for Hugo.</p>
+        </div>
+        
+      </footer>
+
+      
+      <script src="/js/jquery.min.js"></script>
+      <script src="/js/bootstrap.bundle.min.js"></script>
+
+      
+      <script src="/js/jquery.easing.min.js"></script>
+
+      
+      <script src="/js/scrolling-nav.js"></script>
+
+      <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,400b" rel="stylesheet">
+
+
+</body></html>

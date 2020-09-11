@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Girish Varma</title>
@@ -6,7 +6,7 @@
     <description>Recent content on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://girishvarma.in/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,15 +27,7 @@ I did my Phd thesis on Computational Complexity theory (at TIFR Mumbai) and cont
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/home/teaching/</guid>
-      <description> Teaching  NEW  Probabilistic Graphical Models, Jan 2020.
- Probability and Statistics, August 2019.
- Advanced Mathematical Structures, August 2019. 
- AI/ML for Natural Sciences (Aug 2019) (Jan 2019)
- Foundations of Artificial Intelligence and Machine Learning
- Efficient CNNs (Reading Group), Jan 2018
- Multi Object Tracking using Deep Learning (Reading Group), Jan 2018
- Computational Complexity Theory, Sept - Nov 2017
-    </description>
+      <description>Teaching </description>
     </item>
     
     <item>
@@ -44,12 +36,7 @@ I did my Phd thesis on Computational Complexity theory (at TIFR Mumbai) and cont
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/home/events/</guid>
-      <description>Events &amp;amp; Talks  IDD Challenge at NCVPRIPG&#39;19 Open for Submisions till 17th Dec, 2019.  Scene Understanding Challenge for Auto. Nav. in Unstructured Environments
-Second International Workshop On Auto. Nav. in Unconstrained Environments 
-in Conjunction with ICCV 2019, November 2, 2019, Seoul.
- Counting Objects under Symmetry: Pólya - Burnside Enumeration 
-Theory Seminars at IIIT Hyderabad. June 1, 2019
- Semantic Segmentation: Recent Advances, Indian Datasets &amp; Universal Segmentation Problems Challenges and Advances in Vision-Based Self-Driving</description>
+      <description>Events &amp;amp; Talks </description>
     </item>
     
     <item>
@@ -67,7 +54,7 @@ Theory Seminars at IIIT Hyderabad. June 1, 2019
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/home/projects/</guid>
-      <description> Research Areas </description>
+      <description>Research Areas </description>
     </item>
     
     <item>
@@ -86,6 +73,34 @@ Theory Seminars at IIIT Hyderabad. June 1, 2019
       
       <guid>https://girishvarma.in/home/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Ramanujan Bipartite Graph Products for Efficient Block Sparse Neural Networks</title>
+      <link>https://girishvarma.in/publication/rbgp/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/publication/rbgp/</guid>
+      <description>Sparse neural networks are shown to give accurate predictions competitive to denser versions, while also minimizing the number of arithmetic operations performed. However current hardware like GPU&amp;rsquo;s can only exploit structured sparsity patterns for better efficiency. Hence the run time of a sparse neural network may not correspond to the arithmetic operations required.
+In this work, we propose RBGP( Ramanujan Bipartite Graph Product) framework for generating structured multi level block sparse neural networks by using the theory of Graph products.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Enabled Inorganic Material Generator</title>
+      <link>https://girishvarma.in/publication/ding/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/publication/ding/</guid>
+      <description>Recent years have witnessed utilization of modern machine learning approaches for predicting properties of material using available datasets. However, to identify potential candidates for material discovery, one has to systematically scan through a large chemical space and subsequently calculate the properties of all such samples. On the other hand, generative methods are capable of efficiently sampling the chemical space and can generate molecules/materials with desired properties. In this study, we report a deep learning based inorganic material generator (DING) framework consisting of a generator module and a predictor module.</description>
+    </item>
+    
+    <item>
+      <title>Using Artificial Intelligence (AI) to Classify Retinal Developmental Disorders</title>
+      <link>https://girishvarma.in/publication/dlfovea/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/publication/dlfovea/</guid>
+      <description>Purpose : Artificial intelligence (AI) is particularly effective in image recognition as demonstrated in radiology, pathology and recently ophthalmology. Foveal hypoplasia (FH) is a group of disorders characterised by arrested retinal development and often associated with infantile nystagmus. Identifying the degree of arrested retinal development using optical coherence tomography (OCT) is paramount as this information provides both diagnostic and prognostic value. To date, there are no AI systems available for paediatric OCT or childhood nystagmus.</description>
     </item>
     
     <item>
@@ -356,7 +371,7 @@ Theory Seminars at IIIT Hyderabad. June 1, 2019
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/publication/graph-prods/</guid>
-      <description>In this paper, we address the question of whether the recent derandomization results obtained by the use of the low-degree long code can be extended to other product settings. We consider two settings: (1) the graph product results of Alon, Dinur, Friedgut and Sudakov [GAFA, 2004] and (2) the \&amp;ldquo;majority is stablest\&amp;rdquo; type of result obtained by Dinur, Mossel and Regev [SICOMP, 2009] and Dinur and Shinkar [In Proc. APPROX, 2010] while studying the hardness of approximate graph coloring.</description>
+      <description>In this paper, we address the question of whether the recent derandomization results obtained by the use of the low-degree long code can be extended to other product settings. We consider two settings: (1) the graph product results of Alon, Dinur, Friedgut and Sudakov [GAFA, 2004] and (2) the &amp;quot;majority is stablest&amp;quot; type of result obtained by Dinur, Mossel and Regev [SICOMP, 2009] and Dinur and Shinkar [In Proc. APPROX, 2010] while studying the hardness of approximate graph coloring.</description>
     </item>
     
     <item>
@@ -402,7 +417,7 @@ Theory Seminars at IIIT Hyderabad. June 1, 2019
       
       <guid>https://girishvarma.in/openings/</guid>
       <description>I am looking for research students to work with me. The student can choose to do research on one of the following three paths.
- Purely Theoretical:  Research topics: Hardness of Approximation and PCPs, Property Testing, Streaming Algorithms (or Big Data algorithms in general), Computational Learning Theory. Qualifications: The student is expected to have done very well in algorithms, datastructures, basic math courses.   
+ Purely Theoretical:  Research topics: Hardness of Approximation and PCPs, Property Testing, Streaming Algorithms (or Big Data algorithms in general), Computational Learning Theory. Qualifications: The student is expected to have done very well in algorithms, datastructures, basic math courses.    \
  Theory + Applied:  Research Topics: Interpretable/Explanable AI, Graph/Information theoretic approaches to analysing Neural Networks or Big Data in general.</description>
     </item>
     

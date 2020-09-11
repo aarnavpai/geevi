@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Girish Varma</title>
@@ -26,15 +26,7 @@ I did my Phd thesis on Computational Complexity theory (at TIFR Mumbai) and cont
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/home/teaching/</guid>
-      <description> Teaching  NEW  Probabilistic Graphical Models, Jan 2020.
- Probability and Statistics, August 2019.
- Advanced Mathematical Structures, August 2019. 
- AI/ML for Natural Sciences (Aug 2019) (Jan 2019)
- Foundations of Artificial Intelligence and Machine Learning
- Efficient CNNs (Reading Group), Jan 2018
- Multi Object Tracking using Deep Learning (Reading Group), Jan 2018
- Computational Complexity Theory, Sept - Nov 2017
-    </description>
+      <description>Teaching </description>
     </item>
     
     <item>
@@ -43,12 +35,7 @@ I did my Phd thesis on Computational Complexity theory (at TIFR Mumbai) and cont
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/home/events/</guid>
-      <description>Events &amp;amp; Talks  IDD Challenge at NCVPRIPG&#39;19 Open for Submisions till 17th Dec, 2019.  Scene Understanding Challenge for Auto. Nav. in Unstructured Environments
-Second International Workshop On Auto. Nav. in Unconstrained Environments 
-in Conjunction with ICCV 2019, November 2, 2019, Seoul.
- Counting Objects under Symmetry: Pólya - Burnside Enumeration 
-Theory Seminars at IIIT Hyderabad. June 1, 2019
- Semantic Segmentation: Recent Advances, Indian Datasets &amp; Universal Segmentation Problems Challenges and Advances in Vision-Based Self-Driving</description>
+      <description>Events &amp;amp; Talks </description>
     </item>
     
     <item>
@@ -66,7 +53,7 @@ Theory Seminars at IIIT Hyderabad. June 1, 2019
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/home/projects/</guid>
-      <description> Research Areas </description>
+      <description>Research Areas </description>
     </item>
     
     <item>

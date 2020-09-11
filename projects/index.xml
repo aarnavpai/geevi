@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Girish Varma</title>
@@ -6,10 +6,73 @@
     <description>Recent content in Projects on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://girishvarma.in/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>computer-vision</title>
+      <link>https://girishvarma.in/projects/computer-vision/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>https://girishvarma.in/projects/deep-learning/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://girishvarma.in/projects/machine-learning/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>model-compression</title>
+      <link>https://girishvarma.in/projects/model-compression/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/model-compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>generative-models</title>
+      <link>https://girishvarma.in/projects/generative-models/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/generative-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml4opthalmology</title>
+      <link>https://girishvarma.in/projects/ml4opthalmology/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/ml4opthalmology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml4science</title>
+      <link>https://girishvarma.in/projects/ml4science/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/ml4science/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>algorithms</title>
@@ -21,38 +84,11 @@
     </item>
     
     <item>
-      <title>computer-vision</title>
-      <link>https://girishvarma.in/projects/computer-vision/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/projects/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>https://girishvarma.in/projects/deep-learning/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/projects/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>learning-theory</title>
       <link>https://girishvarma.in/projects/learning-theory/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/projects/learning-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine-learning</title>
-      <link>https://girishvarma.in/projects/machine-learning/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/projects/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -71,15 +107,6 @@
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/projects/theory-cs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>model-compression</title>
-      <link>https://girishvarma.in/projects/model-compression/</link>
-      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/projects/model-compression/</guid>
       <description></description>
     </item>
     

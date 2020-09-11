@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>deep-learning on Girish Varma</title>
@@ -6,10 +6,38 @@
     <description>Recent content in deep-learning on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://girishvarma.in/projects/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ramanujan Bipartite Graph Products for Efficient Block Sparse Neural Networks</title>
+      <link>https://girishvarma.in/publication/rbgp/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/publication/rbgp/</guid>
+      <description>Sparse neural networks are shown to give accurate predictions competitive to denser versions, while also minimizing the number of arithmetic operations performed. However current hardware like GPU&amp;rsquo;s can only exploit structured sparsity patterns for better efficiency. Hence the run time of a sparse neural network may not correspond to the arithmetic operations required.
+In this work, we propose RBGP( Ramanujan Bipartite Graph Product) framework for generating structured multi level block sparse neural networks by using the theory of Graph products.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Enabled Inorganic Material Generator</title>
+      <link>https://girishvarma.in/publication/ding/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/publication/ding/</guid>
+      <description>Recent years have witnessed utilization of modern machine learning approaches for predicting properties of material using available datasets. However, to identify potential candidates for material discovery, one has to systematically scan through a large chemical space and subsequently calculate the properties of all such samples. On the other hand, generative methods are capable of efficiently sampling the chemical space and can generate molecules/materials with desired properties. In this study, we report a deep learning based inorganic material generator (DING) framework consisting of a generator module and a predictor module.</description>
+    </item>
+    
+    <item>
+      <title>Using Artificial Intelligence (AI) to Classify Retinal Developmental Disorders</title>
+      <link>https://girishvarma.in/publication/dlfovea/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/publication/dlfovea/</guid>
+      <description>Purpose : Artificial intelligence (AI) is particularly effective in image recognition as demonstrated in radiology, pathology and recently ophthalmology. Foveal hypoplasia (FH) is a group of disorders characterised by arrested retinal development and often associated with infantile nystagmus. Identifying the degree of arrested retinal development using optical coherence tomography (OCT) is paramount as this information provides both diagnostic and prognostic value. To date, there are no AI systems available for paediatric OCT or childhood nystagmus.</description>
+    </item>
     
     <item>
       <title></title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ml4opthalmology on Girish Varma</title>
+    <link>https://girishvarma.in/projects/ml4opthalmology/</link>
+    <description>Recent content in ml4opthalmology on Girish Varma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://girishvarma.in/projects/ml4opthalmology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Artificial Intelligence (AI) to Classify Retinal Developmental Disorders</title>
+      <link>https://girishvarma.in/publication/dlfovea/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/publication/dlfovea/</guid>
+      <description>Purpose : Artificial intelligence (AI) is particularly effective in image recognition as demonstrated in radiology, pathology and recently ophthalmology. Foveal hypoplasia (FH) is a group of disorders characterised by arrested retinal development and often associated with infantile nystagmus. Identifying the degree of arrested retinal development using optical coherence tomography (OCT) is paramount as this information provides both diagnostic and prognostic value. To date, there are no AI systems available for paediatric OCT or childhood nystagmus.</description>
+    </item>
+    
+  </channel>
+</rss>

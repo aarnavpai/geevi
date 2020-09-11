@@ -13,7 +13,7 @@
     
     
     
-    <meta name="generator" content="Hugo 0.55.6" />
+    <meta name="generator" content="Hugo 0.68.3" />
 
     <title>Girish Varma</title>
 
@@ -158,27 +158,20 @@
         <div class="space-below"></div>
         
 
-        <div class="article-style">
-
-<p>Probabilistic Graphical Models refers to concise representations of probability distributions using graphs.
+        <div class="article-style"><p>Probabilistic Graphical Models refers to concise representations of probability distributions using graphs.
 It also studies efficient algorithms for sampling distributions represented in such form. Sampling might need to be done from
 the joint probability distribution, the marginals or even conditional distributions. Other algorithmic questions involve computing
 the Maximum Likelihood Estimate (MLE), Maximum Aposteriori Estimate (MAP) etc. This topic has deep connections and applications to various
 fields including Theoretical Computer Science, Machine Learning, Statistical Physics, Bioinformatics etc. We will also be covering analysis of Markov Chain Monte Carlo (MCMC) Algorithms.</p>
-
 <p>Broadly the course will cover four modules</p>
-
 <ol>
 <li>Representations</li>
 <li>Inference</li>
 <li>Learning</li>
 <li>Advanced Topics (More on MCMC Methods, Normalizing Flows, Learning theory)</li>
 </ol>
-
 <p><a href="pgm_syllabus.pdf">Draft Syllabus</a></p>
-
 <h2 id="grading">Grading</h2>
-
 <table>
 <thead>
 <tr>
@@ -186,284 +179,273 @@ fields including Theoretical Computer Science, Machine Learning, Statistical Phy
 <th align="right">&ndash;Weightage</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>Quiz 1</td>
 <td align="right">10</td>
 </tr>
-
 <tr>
 <td>Mid Sem</td>
 <td align="right">15</td>
 </tr>
-
 <tr>
 <td>Quiz 2</td>
 <td align="right">10</td>
 </tr>
-
 <tr>
 <td>End Sem</td>
 <td align="right">25</td>
 </tr>
-
 <tr>
 <td>Assignments</td>
 <td align="right">20</td>
 </tr>
-
 <tr>
 <td>Project</td>
 <td align="right">20</td>
 </tr>
 </tbody>
 </table>
-
 <h2 id="lectures">Lectures</h2>
-
 <ul>
-<li><p><strong>Lec 1-2: Probability Recap.</strong></p>
-
+<li>
+<p><strong>Lec 1-2: Probability Recap.</strong></p>
 <ul>
-<li><em>Read:</em> For recalling basics of probability and graph theory, please go through [DB] Chapter 1, 2</li>
-
-<li><p><em>Solve:</em></p>
-
-<ul>
-<li><sup>sub</sup> For any two distributions $p,q$ on $\{1, \cdots, n \}$, show that:
+<li>
+<p><em>Read:</em> For recalling basics of probability and graph theory, please go through [DB] Chapter 1, 2</p>
+</li>
+<li>
+<p><em>Solve:</em>
+- <!-- raw HTML omitted -->sub<!-- raw HTML omitted --> For any two distributions $p,q$ on $\{1, \cdots, n \}$, show that:
 $$\max_{A \subseteq \{1, \cdots, n\}} | p(A) - q(A) | = \frac{\sum_{i=1}^n | p(i) - q(i) |}{2}.$$
-Note that the event $A$ choosen in LHS is a way of distinguishing $p$ from $q$ using $1$ sample in the best possible way. The RHS is the $\ell_1$ norm $|p - q|_1$.</li>
-
-<li><p><sup>sub</sup> Prove that any DAG (Directed Acyclic Graph) with finite number of vertices, has atleast one vertex with no incoming edges (ie. pointed towards it). Also show that there is atleast one vertex with no outgoing edges.</p>
-
-<p>[Hint] Note that there are infinite graphs where the statement is not true. Hence you need to use the fact that the graph has only finite number of nodes in the proof.</p></li>
-</ul></li>
-</ul></li>
-
-<li><p><strong>Lec 3: Belief Networks I.</strong>
+Note that the event $A$ choosen in LHS is a way of distinguishing $p$ from $q$ using $1$ sample in the best possible way. The RHS is the $\ell_1$ norm $|p - q|_1$.
+- <!-- raw HTML omitted -->sub<!-- raw HTML omitted --> Prove that any DAG (Directed Acyclic Graph) with finite number of vertices, has atleast one vertex with no incoming edges (ie. pointed towards it). Also show that there is atleast one vertex with no outgoing edges.</p>
+<pre><code>    [Hint] Note that there are infinite graphs where the statement is not true. Hence you need to use the fact that the graph has only finite number of nodes in the proof.
+</code></pre>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Lec 3: Belief Networks I.</strong>
 Free parameters in distributions | Conditional Independence reduces parameters | Graph Representation | d-Connectivity and Independence</p>
-
 <ul>
 <li><em>Read:</em> [DB] Sections 3.1 - 3.3</li>
 <li><em>Solve:</em>
-
-<ul>
-<li>[DB] Section 3.8 Exercise 24<sup>sub</sup>, 27, 35<sup>sub</sup>.</li>
-</ul></li>
-</ul></li>
-
-<li><p><strong>Lec 4: Belief Networks II.</strong>
+- [DB] Section 3.8 Exercise 24<!-- raw HTML omitted -->sub<!-- raw HTML omitted -->, 27, 35<!-- raw HTML omitted -->sub<!-- raw HTML omitted -->.</li>
+</ul>
+</li>
+<li>
+<p><strong>Lec 4: Belief Networks II.</strong>
 d-Connectivity  | I-maps | Minimal and Perfect Imaps</p>
-
 <ul>
 <li><em>Read:</em>
-
 <ul>
 <li>[KE] <a href="https://ermongroup.github.io/cs228-notes/representation/directed/">Bayesian Networks</a></li>
 <li>[DB] Section 3.3</li>
-</ul></li>
+</ul>
+</li>
 <li><em>Explore:</em>
-
-<ul>
-<li>[KF] Chapter 3. Section 3.3</li>
-</ul></li>
-</ul></li>
-
-<li><p><strong>Lec 5: Markov Networks I.</strong></p>
-
+- [KF] Chapter 3. Section 3.3</li>
+</ul>
+</li>
+<li>
+<p><strong>Lec 5: Markov Networks I.</strong></p>
 <ul>
 <li><em>Read:</em>
-
 <ul>
 <li>[DB] Chapter 4</li>
 <li>[KE] <a href="https://ermongroup.github.io/cs228-notes/representation/undirected/">https://ermongroup.github.io/cs228-notes/representation/undirected/</a></li>
-</ul></li>
-</ul></li>
-
-<li><p><strong>Lec 6: Markov Networks II.</strong></p>
-
-<ul>
-<li><em>Read:</em>
-
-<ul>
-<li>[DB] Chapter 4</li>
-<li>[KE] <a href="https://ermongroup.github.io/cs228-notes/representation/undirected/">https://ermongroup.github.io/cs228-notes/representation/undirected/</a></li>
-</ul></li>
-</ul></li>
-
-<li><p><strong><a href="PGM_Quiz_1.pdf">Quiz I</a></strong></p></li>
-
-<li><p><strong>Lec 7: Inference I : Variable Elimination and Message Passing</strong></p>
-
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Lec 6: Markov Networks II.</strong></p>
+</li>
+<li>
+<p><em>Read:</em>
+- [DB] Chapter 4
+- [KE] <a href="https://ermongroup.github.io/cs228-notes/representation/undirected/">https://ermongroup.github.io/cs228-notes/representation/undirected/</a></p>
+</li>
+<li>
+<p><strong><a href="PGM_Quiz_1.pdf">Quiz I</a></strong></p>
+</li>
+<li>
+<p><strong>Lec 7: Inference I : Variable Elimination and Message Passing</strong></p>
 <ul>
 <li><a href="https://iiitaphyd-my.sharepoint.com/:o:/g/personal/girish_varma_iiit_ac_in/EjDx5EHDB15HsxnQffn_WkoBxcO1nO3cmaNsz7uSe6q8mw?e=IidTZi">Notes</a></li>
 <li><em>Read:</em>
-
 <ul>
 <li>[DB] Chapter 5</li>
 <li>[KE] <a href="https://ermongroup.github.io/cs228-notes/inference/ve/">https://ermongroup.github.io/cs228-notes/inference/ve/</a></li>
-</ul></li>
-</ul></li>
-
-<li><p><strong>Lec 8-9: Markov Chain Monte Carlo Sampling</strong></p>
-
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Lec 8-9: Markov Chain Monte Carlo Sampling</strong></p>
 <ul>
 <li><em>Read</em>:
-
 <ul>
 <li><a href="https://statweb.stanford.edu/~owen/pubtalks/05mcmc.pdf">Slides by Art Owen</a> (till slide 22)</li>
 <li><a href="https://math.uchicago.edu/~shmuel/Network-course-readings/MCMCRev.pdf">MCMC Revolution by Persi Diaconis</a> Pages 1-5 (has cryptography example)</li>
-</ul></li>
+</ul>
+</li>
 <li><em>Explore</em>:
-
 <ul>
 <li><a href="https://statweb.stanford.edu/~owen/mc/Ch-MCMC.pdf">MCMC Book Chapter by Art Owen</a></li>
-</ul></li>
-</ul></li>
-
-<li><p><strong>Lec 10: Tutorial - I</strong></p></li>
-
-<li><p><strong>Lec 11: Probability Basics of Sampling: Tail Bounds</strong></p>
-
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Lec 10: Tutorial - I</strong></p>
+</li>
+<li>
+<p><strong>Lec 11: Probability Basics of Sampling: Tail Bounds</strong></p>
 <ul>
 <li><em>Read</em>:
-
 <ul>
 <li><a href="https://www.cs.princeton.edu/courses/archive/fall16/cos521/Lectures/lec3.pdf">Lectures Notes by Pravesh Kothari</a></li>
-</ul></li>
-</ul></li>
-
-<li><p><strong>Lec 12: Amplification and Ising Model</strong></p>
-
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Lec 12: Amplification and Ising Model</strong></p>
 <ul>
 <li><em>Read</em>:
-
 <ul>
 <li><a href="https://statweb.stanford.edu/~owen/mc/Ch-MCMC.pdf">MCMC book by Art Owen</a>.  Pages 6-8 for Ising Model definition. Pages 16-18 for General MCMC formulation (also known as Metropolis - Hasting&rsquo;s). Pages 31 - 32 for MCMC formulation of Ising Model.</li>
-</ul></li>
-</ul></li>
-
-<li><p><strong><a href="PGM_MidSem.pdf">Mid Sem Exam</a></strong></p></li>
-
-<li><p><strong>Lec 13: Intro to Learning Theory</strong></p>
-
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="PGM_MidSem.pdf">Mid Sem Exam</a></strong></p>
+</li>
+<li>
+<p><strong>Lec 13: Intro to Learning Theory</strong></p>
 <ul>
 <li><em>Read</em>:
-
 <ul>
 <li><a href="https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf">Understanding ML by Shai Shalev-Shwartz, Shai Ben-David</a>.  Chapter 2</li>
-</ul></li>
-</ul></li>
-
-<li><p><strong>Lec 14: Agnostic PAC Learning</strong></p>
-
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Lec 14: Agnostic PAC Learning</strong></p>
 <ul>
 <li><em>Read</em>:
-
 <ul>
 <li><a href="https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf">Understanding ML by Shai Shalev-Shwartz, Shai Ben-David</a>.  Chapter 3, 4</li>
-</ul></li>
-</ul></li>
-
-<li><p><strong>Tutorial II on PAC Learning</strong></p></li>
-
-<li><p><strong>Lec 15: VC Dimension I</strong></p>
-
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Tutorial II on PAC Learning</strong></p>
+</li>
+<li>
+<p><strong>Lec 15: VC Dimension I</strong></p>
 <ul>
 <li><em>Read</em>:
-
+- <a href="https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf">Understanding ML by Shai Shalev-Shwartz, Shai Ben-David</a>.  Chapter 6</li>
+</ul>
+</li>
+<li>
+<p><strong>Lec 16: VC Dimension II - Sauer-Shellah-Peres Lemma</strong></p>
+<ul>
+<li><em>Read</em>:
 <ul>
 <li><a href="https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf">Understanding ML by Shai Shalev-Shwartz, Shai Ben-David</a>.  Chapter 6</li>
-</ul></li>
-</ul></li>
-
-<li><p><strong>Lec 16: VC Dimension II - Sauer-Shellah-Peres Lemma</strong></p>
-
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Lec 17: Recap &amp; Learning Conjunctions</strong></p>
 <ul>
 <li><em>Read</em>:
-
-<ul>
-<li><a href="https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf">Understanding ML by Shai Shalev-Shwartz, Shai Ben-David</a>.  Chapter 6</li>
-</ul></li>
-</ul></li>
-
-<li><p><strong>Lec 17: Recap &amp; Learning Conjunctions</strong></p>
-
-<ul>
-<li><em>Read</em>:
-
 <ul>
 <li><a href="https://pdfs.semanticscholar.org/a3c3/b359f6745b4cfa7238d35b0ce88f4a93c6f1.pdf">Computational Learning Theory by Vazirani, Kearns</a>.  Section 1.3</li>
-</ul></li>
+</ul>
+</li>
 <li><a href="https://www.youtube.com/watch?v=MEJA_Kf51Xo"><em>Video</em></a></li>
-<li><a href="pgm_lec17.pdf"><em>Notes</em></a>
-<br /></li>
-</ul></li>
-
-<li><p><strong>Lec 18: No Free Lunch Theorem</strong></p>
-
+<li><a href="pgm_lec17.pdf"><em>Notes</em></a></li>
+</ul>
+</li>
+<li>
+<p><strong>Lec 18: No Free Lunch Theorem</strong></p>
 <ul>
 <li><em>Read</em>:
-
 <ul>
 <li><a href="https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf">Understanding ML by Shai Shalev-Shwartz, Shai Ben-David</a>.  Chapter 5</li>
-</ul></li>
+</ul>
+</li>
 <li><a href="pgm_lec18.pdf"><em>Notes</em></a></li>
-</ul></li>
-
-<li><p><strong>Lec 19: Learning Graphical Models</strong></p>
-
+</ul>
+</li>
+<li>
+<p><strong>Lec 19: Learning Graphical Models</strong></p>
 <ul>
 <li><em>Read</em>:
-
 <ul>
-<li><a href="https://ermongroup.github.io/cs228-notes/learning/directed/">Learning Bayesian Nets: PGM Course Lecture Notes</a>.<br /></li>
+<li><a href="https://ermongroup.github.io/cs228-notes/learning/directed/">Learning Bayesian Nets: PGM Course Lecture Notes</a>.</li>
 <li><a href="https://ermongroup.github.io/cs228-notes/learning/undirected/">Learning Markov Nets: PGM Course Lecture Notes</a>.</li>
-</ul></li>
-<li><a href="https://www.youtube.com/watch?v=nY15BLUBsbw"><em>Video</em></a><br /></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/watch?v=nY15BLUBsbw"><em>Video</em></a></li>
 <li><a href="pgm_lec19.pdf"><em>Notes</em></a></li>
-</ul></li>
-
-<li><p><strong>Lec 20: Group Testing</strong></p>
-
+</ul>
+</li>
+<li>
+<p><strong>Lec 20: Group Testing</strong></p>
 <ul>
-<li><a href="https://web.microsoftstream.com/video/fefbbdd0-05e2-45bb-8709-c86a09a312f8"><em>Video</em></a><br /></li>
+<li><a href="https://web.microsoftstream.com/video/fefbbdd0-05e2-45bb-8709-c86a09a312f8"><em>Video</em></a></li>
 <li><a href="pgm_lec19.pdf"><em>Notes</em></a></li>
 <li><em>Reference</em>
-
 <ul>
-<li><a href="https://people.csail.mit.edu/indyk/survey-10.pdf">Sparse Recovery using Sparse Matrices, Section III</a>
-<br /></li>
-</ul></li>
-</ul></li>
+<li><a href="https://people.csail.mit.edu/indyk/survey-10.pdf">Sparse Recovery using Sparse Matrices, Section III</a></li>
 </ul>
-
+</li>
+</ul>
+</li>
+</ul>
 <h2 id="textbook-and-references">Textbook and References</h2>
-
 <ul>
-<li><p>[DB] <a href="http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf">Bayesian Reasoning and Machine Learning</a>.
-David Barber</p></li>
-
-<li><p>[KE] <a href="https://ermongroup.github.io/cs228-notes/">Probabilistic Graphical Models, Course Notes</a>.
-Volodymyr Kuleshov and Stefano Ermon</p></li>
-
-<li><p>[MMSM] <a href="https://stat.ethz.ch/~maathuis/papers/Handbook.pdf">Handbook of Graphical Models</a>
-Marloes Maathuis, Mathias Drton, Steven Lauritzen, Martin Wainwright</p></li>
-
-<li><p>[KF] Probabilistic Graphical Models: Principles and Techniques.
-Daphne Koller and Nir Friedman, MIT Press (2009).</p></li>
-
-<li><p>[EX] <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/lecture.html">Probabilistic Graphical Models</a>
-Eric Xing</p></li>
-
-<li><p>[KM] Machine Learning: a Probabilistic Perspective
-by Kevin Patrick Murphy</p></li>
-
-<li><p>[WJ] <a href="https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf">Graphical Models, Exponential Families, and Variational Inference</a>  Martin J. Wainwright and Michael I. Jordan</p></li>
-
-<li><p>[MM] <a href="https://web.stanford.edu/~montanar/RESEARCH/book.html">Information, Physics, and Computation</a>
-Marc Mézard and Andrea Montanari</p></li>
+<li>
+<p>[DB] <a href="http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf">Bayesian Reasoning and Machine Learning</a>.
+David Barber</p>
+</li>
+<li>
+<p>[KE] <a href="https://ermongroup.github.io/cs228-notes/">Probabilistic Graphical Models, Course Notes</a>.
+Volodymyr Kuleshov and Stefano Ermon</p>
+</li>
+<li>
+<p>[MMSM] <a href="https://stat.ethz.ch/~maathuis/papers/Handbook.pdf">Handbook of Graphical Models</a>
+Marloes Maathuis, Mathias Drton, Steven Lauritzen, Martin Wainwright</p>
+</li>
+<li>
+<p>[KF] Probabilistic Graphical Models: Principles and Techniques.
+Daphne Koller and Nir Friedman, MIT Press (2009).</p>
+</li>
+<li>
+<p>[EX] <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/lecture.html">Probabilistic Graphical Models</a>
+Eric Xing</p>
+</li>
+<li>
+<p>[KM] Machine Learning: a Probabilistic Perspective
+by Kevin Patrick Murphy</p>
+</li>
+<li>
+<p>[WJ] <a href="https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf">Graphical Models, Exponential Families, and Variational Inference</a>  Martin J. Wainwright and Michael I. Jordan</p>
+</li>
+<li>
+<p>[MM] <a href="https://web.stanford.edu/~montanar/RESEARCH/book.html">Information, Physics, and Computation</a>
+Marc Mézard and Andrea Montanari</p>
+</li>
 </ul>
 </div>
 

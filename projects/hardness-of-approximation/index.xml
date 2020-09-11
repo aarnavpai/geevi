@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hardness-of-approximation on Girish Varma</title>
@@ -54,7 +54,7 @@
       <pubDate>Tue, 10 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/publication/graph-prods/</guid>
-      <description>In this paper, we address the question of whether the recent derandomization results obtained by the use of the low-degree long code can be extended to other product settings. We consider two settings: (1) the graph product results of Alon, Dinur, Friedgut and Sudakov [GAFA, 2004] and (2) the \&amp;ldquo;majority is stablest\&amp;rdquo; type of result obtained by Dinur, Mossel and Regev [SICOMP, 2009] and Dinur and Shinkar [In Proc. APPROX, 2010] while studying the hardness of approximate graph coloring.</description>
+      <description>In this paper, we address the question of whether the recent derandomization results obtained by the use of the low-degree long code can be extended to other product settings. We consider two settings: (1) the graph product results of Alon, Dinur, Friedgut and Sudakov [GAFA, 2004] and (2) the &amp;quot;majority is stablest&amp;quot; type of result obtained by Dinur, Mossel and Regev [SICOMP, 2009] and Dinur and Shinkar [In Proc. APPROX, 2010] while studying the hardness of approximate graph coloring.</description>
     </item>
     
   </channel>
