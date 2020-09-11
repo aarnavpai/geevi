@@ -6,10 +6,19 @@
     <description>Recent content in theory-cs on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://girishvarma.in/projects/theory-cs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Modern Complexity Theory (Monsoon 2020)</title>
+      <link>https://girishvarma.in/teaching/complexity-theory-monsoon-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/complexity-theory-monsoon-2020/</guid>
+      <description>A first undergraduate course on Computational Complexity Theory.</description>
+    </item>
     
     <item>
       <title></title>

@@ -6,10 +6,19 @@
     <description>Recent content in mathematics on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://girishvarma.in/projects/mathematics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Probability &amp; Statistics (Monsoon 2020)</title>
+      <link>https://girishvarma.in/teaching/prob-stat-2020-monsoon/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/prob-stat-2020-monsoon/</guid>
+      <description>A first course in probability and statistics with a focus on discrete spaces.</description>
+    </item>
     
     <item>
       <title>Advanced Mathematical Structures</title>

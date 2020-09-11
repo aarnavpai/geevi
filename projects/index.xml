@@ -6,10 +6,37 @@
     <description>Recent content in Projects on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://girishvarma.in/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>complexity-theory</title>
+      <link>https://girishvarma.in/projects/complexity-theory/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/complexity-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theory-cs</title>
+      <link>https://girishvarma.in/projects/theory-cs/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/theory-cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mathematics</title>
+      <link>https://girishvarma.in/projects/mathematics/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/mathematics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>computer-vision</title>
@@ -102,29 +129,11 @@
     </item>
     
     <item>
-      <title>theory-cs</title>
-      <link>https://girishvarma.in/projects/theory-cs/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/projects/theory-cs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>semantic-segmentation</title>
       <link>https://girishvarma.in/projects/semantic-segmentation/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/projects/semantic-segmentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mathematics</title>
-      <link>https://girishvarma.in/projects/mathematics/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/projects/mathematics/</guid>
       <description></description>
     </item>
     
@@ -161,15 +170,6 @@
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/projects/latent-heirarchy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>complexity-theory</title>
-      <link>https://girishvarma.in/projects/complexity-theory/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/projects/complexity-theory/</guid>
       <description></description>
     </item>
     
