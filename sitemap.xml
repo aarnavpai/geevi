@@ -101,12 +101,12 @@
   </url>
   
   <url>
-    <loc>https://girishvarma.in/projects/ml4opthalmology/</loc>
+    <loc>https://girishvarma.in/projects/ml-for-opthalmology/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://girishvarma.in/projects/ml4science/</loc>
+    <loc>https://girishvarma.in/projects/ml-for-science/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -166,11 +166,6 @@
   </url>
   
   <url>
-    <loc>https://girishvarma.in/projects/ml-for-medicine/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://girishvarma.in/teaching/prob-graph-models/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url>
@@ -203,6 +198,11 @@
   <url>
     <loc>https://girishvarma.in/teaching/prob-stat/</loc>
     <lastmod>2019-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/teaching/ml4science/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

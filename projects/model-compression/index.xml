@@ -67,6 +67,15 @@ In this work, we propose RBGP( Ramanujan Bipartite Graph Product) framework for 
     </item>
     
     <item>
+      <title>Efficient CNNs</title>
+      <link>https://girishvarma.in/teaching/efficient-cnns/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/efficient-cnns/</guid>
+      <description>Surveying methods used to make deep learning models efficient.</description>
+    </item>
+    
+    <item>
       <title>Compressing Models for Recognizing Places</title>
       <link>https://girishvarma.in/publication/compression-place/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>

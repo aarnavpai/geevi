@@ -57,12 +57,21 @@
     </item>
     
     <item>
+      <title>Machine Learning in Natural Sciences</title>
+      <link>https://girishvarma.in/teaching/ml4science/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/ml4science/</guid>
+      <description>A project oriented course in applying machine learning techniques to solving problems in natural sciences.</description>
+    </item>
+    
+    <item>
       <title>Efficient CNNs</title>
       <link>https://girishvarma.in/teaching/efficient-cnns/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/teaching/efficient-cnns/</guid>
-      <description>Surveying Deep learning methods used in Reinforcement Learning</description>
+      <description>Surveying methods used to make deep learning models efficient.</description>
     </item>
     
     <item>

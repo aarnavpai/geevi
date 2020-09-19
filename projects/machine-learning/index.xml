@@ -112,6 +112,15 @@ In this work, we propose RBGP( Ramanujan Bipartite Graph Product) framework for 
     </item>
     
     <item>
+      <title>Machine Learning in Natural Sciences</title>
+      <link>https://girishvarma.in/teaching/ml4science/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/ml4science/</guid>
+      <description>A project oriented course in applying machine learning techniques to solving problems in natural sciences.</description>
+    </item>
+    
+    <item>
       <title>Universal Semi-supervised Semantic Segmentation</title>
       <link>https://girishvarma.in/publication/univ-seg/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
@@ -127,6 +136,15 @@ In this work, we propose RBGP( Ramanujan Bipartite Graph Product) framework for 
       
       <guid>https://girishvarma.in/publication/class2str/</guid>
       <description>Deep neural networks for image classification typically consists of a convolutional feature extractor followed by a fully connected classifier network. The predicted and the ground truth labels are represented as one hot vectors. Such a representation assumes that all classes are equally dissimilar. However, classes have visual similarities and often form a hierarchy. Learning this latent hierarchy explicitly in the architecture could provide invaluable insights. We propose an alternate architecture to the classifier network called the Latent Hierarchy (LH) Classifier and an end to end learned Class2Str mapping which discovers a latent hierarchy of the classes.</description>
+    </item>
+    
+    <item>
+      <title>Efficient CNNs</title>
+      <link>https://girishvarma.in/teaching/efficient-cnns/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/efficient-cnns/</guid>
+      <description>Surveying methods used to make deep learning models efficient.</description>
     </item>
     
   </channel>

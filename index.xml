@@ -36,7 +36,14 @@ I did my Phd thesis on Computational Complexity theory (at TIFR Mumbai) and cont
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/home/events/</guid>
-      <description>Events &amp;amp; Talks </description>
+      <description>Events &amp;amp; Talks   IDD Challenge at NCVPRIPG&amp;rsquo;19
+Open for Submisions till 17th Dec, 2019.
+  Scene Understanding Challenge for Auto. Nav. in Unstructured Environments
+Second International Workshop On Auto. Nav. in Unconstrained Environments
+in Conjunction with ICCV 2019, November 2, 2019, Seoul.
+  Counting Objects under Symmetry: Pólya - Burnside Enumeration
+  Theory Seminars at IIIT Hyderabad. June 1, 2019
+  Semantic Segmentation: Recent Advances, Indian Datasets &amp;amp; Universal Segmentation Problems</description>
     </item>
     
     <item>
@@ -239,6 +246,15 @@ In this work, we propose RBGP( Ramanujan Bipartite Graph Product) framework for 
     </item>
     
     <item>
+      <title>Machine Learning in Natural Sciences</title>
+      <link>https://girishvarma.in/teaching/ml4science/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/ml4science/</guid>
+      <description>A project oriented course in applying machine learning techniques to solving problems in natural sciences.</description>
+    </item>
+    
+    <item>
       <title>Universal Semi-supervised Semantic Segmentation</title>
       <link>https://girishvarma.in/publication/univ-seg/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
@@ -307,7 +323,7 @@ In this work, we propose RBGP( Ramanujan Bipartite Graph Product) framework for 
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/teaching/efficient-cnns/</guid>
-      <description>Surveying Deep learning methods used in Reinforcement Learning</description>
+      <description>Surveying methods used to make deep learning models efficient.</description>
     </item>
     
     <item>
