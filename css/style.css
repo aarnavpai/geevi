@@ -84,10 +84,13 @@ main {
   padding: 0px 20px;
 } */
 
+.publication-container {
+    margin-top: 50px;
+}
 
 .pub {
-  margin: 80px 0px;
-  padding: 50px 10px;
+  margin: 50px 0px;
+  padding: 0px 10px;
 }
 
 .tag {
