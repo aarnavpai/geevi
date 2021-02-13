@@ -6,11 +6,7 @@
     <description>Recent content in physarum-computer on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://girishvarma.in/projects/physarum-computer/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 12 Sep 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://girishvarma.in/projects/physarum-computer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> Physarum Can Compute Shortest Paths</title>
       <link>https://girishvarma.in/publication/slime-mold2/</link>

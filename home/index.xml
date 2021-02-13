@@ -5,11 +5,7 @@
     <link>https://girishvarma.in/home/</link>
     <description>Recent content in Homes on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://girishvarma.in/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://girishvarma.in/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://girishvarma.in/home/about/</link>
@@ -35,7 +31,7 @@ I did my Phd thesis on Computational Complexity theory (at TIFR Mumbai) and cont
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/home/events/</guid>
-      <description>Events &amp;amp; Talks   IDD Challenge at NCVPRIPG&amp;rsquo;19
+      <description>Events &amp;amp; Talks   IDD Challenge at NCVPRIPG&#39;19
 Open for Submisions till 17th Dec, 2019.
   Scene Understanding Challenge for Auto. Nav. in Unstructured Environments
 Second International Workshop On Auto. Nav. in Unconstrained Environments

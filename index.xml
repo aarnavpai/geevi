@@ -6,11 +6,7 @@
     <description>Recent content on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://girishvarma.in/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://girishvarma.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://girishvarma.in/home/about/</link>
@@ -36,7 +32,7 @@ I did my Phd thesis on Computational Complexity theory (at TIFR Mumbai) and cont
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/home/events/</guid>
-      <description>Events &amp;amp; Talks   IDD Challenge at NCVPRIPG&amp;rsquo;19
+      <description>Events &amp;amp; Talks   IDD Challenge at NCVPRIPG&#39;19
 Open for Submisions till 17th Dec, 2019.
   Scene Understanding Challenge for Auto. Nav. in Unstructured Environments
 Second International Workshop On Auto. Nav. in Unconstrained Environments
@@ -80,6 +76,15 @@ in Conjunction with ICCV 2019, November 2, 2019, Seoul.
       
       <guid>https://girishvarma.in/home/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Markov Chain Monte Carlo: Theory, Applications and Interdisciplinary Problems</title>
+      <link>https://girishvarma.in/teaching/mcmc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/mcmc/</guid>
+      <description>A project oriented course on theory and applications of MCMC techniques.</description>
     </item>
     
     <item>
@@ -233,7 +238,7 @@ In this work, we propose RBGP( Ramanujan Bipartite Graph Product) framework for 
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/teaching/adv-math-structs/</guid>
-      <description>This course is intended to familiarize the students with the types of mathematical reasoning found in theoretical research on computing and communications. The course contains a broad set of intermediate and advanced level topics in Algebra, Combinatorics, Probability and Graph Theory.</description>
+      <description>A broad set of intermediate and advanced level topics in Algebra, Combinatorics, Probability and Graph Theory.</description>
     </item>
     
     <item>

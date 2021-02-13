@@ -6,11 +6,7 @@
     <description>Recent content in semantic-segmentation on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://girishvarma.in/projects/semantic-segmentation/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://girishvarma.in/projects/semantic-segmentation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Semantic Segmentation Datasets for Resource Constrained Training</title>
       <link>https://girishvarma.in/publication/idd-lite/</link>
