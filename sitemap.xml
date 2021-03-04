@@ -31,12 +31,7 @@
   </url>
   
   <url>
-    <loc>https://girishvarma.in/projects/computer-vision/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://girishvarma.in/projects/deep-learning/</loc>
+    <loc>https://girishvarma.in/projects/algorithms/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -51,27 +46,22 @@
   </url>
   
   <url>
-    <loc>https://girishvarma.in/projects/machine-learning/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://girishvarma.in/projects/model-compression/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://girishvarma.in/projects/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://girishvarma.in/teaching/mcmc/</loc>
+    <loc>https://girishvarma.in/projects/theory-cs/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/machine-learning/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://girishvarma.in/projects/theory-cs/</loc>
+    <loc>https://girishvarma.in/teaching/mcmc/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,6 +83,21 @@
   <url>
     <loc>https://girishvarma.in/teaching/prob-stat-2020-monsoon/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/computer-vision/</loc>
+    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/deep-learning/</loc>
+    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://girishvarma.in/projects/model-compression/</loc>
+    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -162,11 +167,6 @@
   
   <url>
     <loc>https://girishvarma.in/students/sumit-kumar/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://girishvarma.in/projects/algorithms/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url>
   
