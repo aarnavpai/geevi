@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maths on Girish Varma</title>
+    <link>https://girishvarma.in/projects/maths/</link>
+    <description>Recent content in maths on Girish Varma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://girishvarma.in/projects/maths/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linear Algebra II</title>
+      <link>https://girishvarma.in/teaching/linear-algebra-ii/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/teaching/linear-algebra-ii/</guid>
+      <description>A 15 lecture course which introduces intermediate level topics in Linear Algebra.</description>
+    </item>
+    
+  </channel>
+</rss>
