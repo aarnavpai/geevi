@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ml-for-agriculture on Girish Varma</title>
+    <link>https://girishvarma.in/projects/ml-for-agriculture/</link>
+    <description>Recent content in ml-for-agriculture on Girish Varma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://girishvarma.in/projects/ml-for-agriculture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automated Seed Quality Testing System using GAN &amp; Active Learning</title>
+      <link>https://girishvarma.in/publication/seed/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/publication/seed/</guid>
+      <description>Quality assessment of agricultural produce is a crucial step in minimizing food stock wastage. However, this is currently done manually and often requires expert supervision, especially in smaller seeds like corn. We propose a novel computer vision-based system for automating this process. We build a novel seed image acquisition setup, which captures both the top and bottom views. Dataset collection for this problem has challenges of data annotation costs/time and class imbalance.</description>
+    </item>
+    
+  </channel>
+</rss>

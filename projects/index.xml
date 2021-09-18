@@ -6,7 +6,43 @@
     <description>Recent content in Projects on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://girishvarma.in/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://girishvarma.in/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>computer-vision</title>
+      <link>https://girishvarma.in/projects/computer-vision/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep-learning</title>
+      <link>https://girishvarma.in/projects/deep-learning/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://girishvarma.in/projects/machine-learning/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml-for-agriculture</title>
+      <link>https://girishvarma.in/projects/ml-for-agriculture/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/projects/ml-for-agriculture/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>complexity-theory</title>
       <link>https://girishvarma.in/projects/complexity-theory/</link>
@@ -22,33 +58,6 @@
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://girishvarma.in/projects/theory-cs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>computer-vision</title>
-      <link>https://girishvarma.in/projects/computer-vision/</link>
-      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/projects/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine-learning</title>
-      <link>https://girishvarma.in/projects/machine-learning/</link>
-      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/projects/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>https://girishvarma.in/projects/deep-learning/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://girishvarma.in/projects/deep-learning/</guid>
       <description></description>
     </item>
     

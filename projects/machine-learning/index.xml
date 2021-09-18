@@ -6,7 +6,16 @@
     <description>Recent content in machine-learning on Girish Varma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://girishvarma.in/projects/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://girishvarma.in/projects/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automated Seed Quality Testing System using GAN &amp; Active Learning</title>
+      <link>https://girishvarma.in/publication/seed/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://girishvarma.in/publication/seed/</guid>
+      <description>Quality assessment of agricultural produce is a crucial step in minimizing food stock wastage. However, this is currently done manually and often requires expert supervision, especially in smaller seeds like corn. We propose a novel computer vision-based system for automating this process. We build a novel seed image acquisition setup, which captures both the top and bottom views. Dataset collection for this problem has challenges of data annotation costs/time and class imbalance.</description>
+    </item>
+    
     <item>
       <title>CInC Flow: Characterizable Invertible 3x3 Convolution</title>
       <link>https://girishvarma.in/publication/cinc-flow/</link>
